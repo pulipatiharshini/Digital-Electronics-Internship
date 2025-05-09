@@ -18,36 +18,20 @@ Home Appliances
 
 Medical Devices
 
-Automotive
-
-
+Automotive 
 
 **Digital vs Analog signals?**
 
-Analog Signals:
+| **Analog** | **Digital** 
+|------------|------------|
+|A continuous wave that represents data|A discrete signal that represents data in binary form (0s and 1s)|
+|Requires less bandwid from transmission| Request more bandwidth due to discrete data encoding|
+|Less expensive to produce and transmit| More expensive due to advanced technology and processing requirements|
+|Less flexible. order to modify or enhance| Highly flexible. easy to modify,compress, or enhance|
+|Analog signal use more power| Digital signal useless power|
+|Analog signal easily affected by the noise| Digital signal are stable and less prone to noise|
+|Components like resistors,Capacitors, Inductors,Diodes are used in analog circuits.| Components like transistors, logic gates,and microcontrollers are used in digital circuits.|
 
-Continuous:
-
-They can take on any value within a range, unlike digital signals which are discrete.
-
-Examples:
-
-Sound waves, voltage fluctuations, radio waves, and the hands of a clock. 
-
-High Fidelity:
-They can reproduce the original information with high fidelity, but may not be as robust over long distances. 
-
-Digital Signals:
-
-Discrete:
-
-They represent information using a limited set of values, typically binary code (0s and 1s). 
-Examples:
-
-Digital clocks, computers, and most modern communication systems. 
-Robust to Noise:
-
-Digital signals are more resilient to noise because they can be easily regenerated. 
 
 **Logic Levels?**
 
