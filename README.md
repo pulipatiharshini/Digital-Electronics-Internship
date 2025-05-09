@@ -9,10 +9,15 @@ typically using binary code (0s and 1s).
 **Applications of Digital Electronics?**
 
 Computing
+
 Communication
+
 Control Systems
+
 Home Appliances
+
 Medical Devices
+
 Automotive
 
 
