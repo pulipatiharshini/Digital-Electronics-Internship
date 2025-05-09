@@ -1,28 +1,23 @@
 # Digital-electronics_-internship
 
-**1.What is Digital Electronics?**
+**What is Digital Electronics?**
 
 Digital electronics is a branch of electronics that deals with systems and devices that use digital signals, which are discrete representations of data, 
 typically using binary code (0s and 1s).
 
 
-**2.Applications of Digital Electronics?**
+**Applications of Digital Electronics?**
 
-1.Computing
-
-2.Communication
-
-3.Control Systems
-
-4.Home Appliances
-
-5.Medical Devices
-
-6.Automotive
+Computing
+Communication
+Control Systems
+Home Appliances
+Medical Devices
+Automotive
 
 
 
-**3.Digital vs Analog signals?**
+**Digital vs Analog signals?**
 
 Analog Signals:
 
@@ -49,7 +44,7 @@ Robust to Noise:
 
 Digital signals are more resilient to noise because they can be easily regenerated. 
 
-**4.Logic Levels?**
+**Logic Levels?**
 
 In digital electronics, logic levels represent the two states, typically 0 and 1, of a digital signal, often corresponding to a voltage level. These levels are crucial for how digital circuits interpret and process information.
 
