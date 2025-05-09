@@ -1,6 +1,6 @@
 # Digital-electronics_-internship
 
-**What is Digital Electronics?**
+# What is Digital Electronics?
 
 Digital electronics is a branch of electronics that deals with systems and devices that use digital signals, which are discrete representations of data, 
 typically using binary code (0s and 1s).
@@ -20,7 +20,7 @@ Medical Devices
 
 Automotive 
 
-**Digital vs Analog signals?**
+# Digital vs Analog signals?
 
 | **Analog** | **Digital** 
 |------------|------------|
@@ -33,7 +33,7 @@ Automotive
 |Components like resistors,Capacitors, Inductors,Diodes are used in analog circuits.| Components like transistors, logic gates,and microcontrollers are used in digital circuits.|
 
 
-**Logic Levels?**
+# Logic Levels?
 
 In digital electronics, logic levels represent the two states, typically 0 and 1, of a digital signal, often corresponding to a voltage level. These levels are crucial for how digital circuits interpret and process information.
 
