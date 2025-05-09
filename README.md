@@ -6,7 +6,7 @@ Digital electronics is a branch of electronics that deals with systems and devic
 typically using binary code (0s and 1s).
 
 
-**Applications of Digital Electronics?**
+# Applications of Digital Electronics?
 
 Computing
 
