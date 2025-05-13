@@ -1,5 +1,7 @@
 # Digital-electronics_-internship
 
+# Task 1
+
 # What is Digital Electronics?
 
 Digital electronics is a branch of electronics that deals with systems and devices that use digital signals, which are discrete representations of data, 
@@ -156,17 +158,33 @@ Step 2: Binary → Octal Group 3 bits: 000 | 101 | 111 000 → 0 101 → 5 111 �
 
 Result → 057₈
 
+# Task 2
+
 # BASIC LOGIC GATES
+
 # 1.AND GATE
-# SYMBOL:
+
+**SYMBOL:**
+
+![image](https://github.com/user-attachments/assets/6f268541-79f2-44b1-aa14-366ceafd63f8)
+
+
 The standard symbol for a 2-input AND gate is:
-# Function 
+
+**Function**
+
 An AND gate is a fundamental digital logic gate that implements logical conjunction. It gives a high output (1) only when all its inputs are high (1). If any of the inputs is low (0), the output will be low (0).
+
 The logical function of an AND gate is:
+
 Q = A • B
+
 𝐴 ⋅ 𝐵 Q=A⋅B Or in Boolean algebra:
+
 𝐴 ∧ 𝐵 Q=A∧B
-# Truth table
+
+**Truth table**
+
 |A|B|Q = A AND B|
 |-|-|-----------|
 |0|0|0|
@@ -175,32 +193,49 @@ Q = A • B
 |1|1|1|
 
 # 2.OR GATE
-# Symbol:
+
+**Symbol:**
+
+![image](https://github.com/user-attachments/assets/154e49e1-55b0-44a7-8c85-048318c03223)
+
 The symbol for a 2-input OR gate looks like this:
+
 An OR gate is a basic digital logic gate that implements logical disjunction – it outputs TRUE (1) when at least one of its inputs is TRUE.
-# Function of OR Gate:
+
+**Function of OR Gate:**
+
 The OR gate performs the following function:
 
-.If any one or both inputs are 1, the output is 1
-𝐴 + 𝐵 Q=A+B Or in Boolean logic:
-𝐴 ∨ 𝐵 Q=A∨B
-# Truth table 
+If any one or both inputs are 1, the output is 1
+
+
+**Truth table**
+
 |A|B|Q = A OR B|
 |-|-|----------|
 |0|0|0|
 |0|1|1|
 |1|0|1|
 |1|1|1|
-# 3.NOT GATE 
-# Symbol:
+
+# 3.NOT GATE
+
+**Symbol:**
+
+![image](https://github.com/user-attachments/assets/2645779e-a694-4bf8-95c7-abf3cea3769f)
+
 The symbol for a NOT gate is:
-# Function 
+
+**Function**
+
 A NOT gate, also known as an inverter, is a basic digital logic gate that inverts the input. It has only one input and one output.
+
 If the input is 1 (TRUE), the output is 0 (FALSE).
+
 If the input is 0 (FALSE), the output is 1 (TRUE).
-𝐴 ‾ Q= A
-¬ 𝐴 Q=¬A
-# Truth table 
+
+**Truth table** 
+
 |A|Q = NOT A|
 |-|---------|
 |0|1|
