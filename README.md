@@ -164,9 +164,7 @@ The standard symbol for a 2-input AND gate is:
 An AND gate is a fundamental digital logic gate that implements logical conjunction. It gives a high output (1) only when all its inputs are high (1). If any of the inputs is low (0), the output will be low (0).
 The logical function of an AND gate is:
 Q = A • B
-# Q
 𝐴 ⋅ 𝐵 Q=A⋅B Or in Boolean algebra:
-# Q
 𝐴 ∧ 𝐵 Q=A∧B
 # Truth table
 |A|B|Q = A AND B|
@@ -184,9 +182,7 @@ An OR gate is a basic digital logic gate that implements logical disjunction –
 The OR gate performs the following function:
 
 .If any one or both inputs are 1, the output is 1
-# Q
 𝐴 + 𝐵 Q=A+B Or in Boolean logic:
-# Q
 𝐴 ∨ 𝐵 Q=A∨B
 # Truth table 
 |A|B|Q = A OR B|
@@ -202,9 +198,7 @@ The symbol for a NOT gate is:
 A NOT gate, also known as an inverter, is a basic digital logic gate that inverts the input. It has only one input and one output.
 If the input is 1 (TRUE), the output is 0 (FALSE).
 If the input is 0 (FALSE), the output is 1 (TRUE).
-# Q
 𝐴 ‾ Q= A
-# Q
 ¬ 𝐴 Q=¬A
 # Truth table 
 |A|Q = NOT A|
