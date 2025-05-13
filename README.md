@@ -157,8 +157,8 @@ Step 2: Binary → Octal Group 3 bits: 000 | 101 | 111 000 → 0 101 → 5 111 �
 Result → 057₈
 
 # BASIC LOGIC GATES
-# 1. AND GATE
-# SYMBOL
+# 1.AND GATE
+# SYMBOL:
 The standard symbol for a 2-input AND gate is:
 # Function 
 An AND gate is a fundamental digital logic gate that implements logical conjunction. It gives a high output (1) only when all its inputs are high (1). If any of the inputs is low (0), the output will be low (0).
@@ -169,10 +169,31 @@ Q = A • B
 # Q
 𝐴 ∧ 𝐵 Q=A∧B
 # Truth table
-|A|B|Q = A and B|
+|A|B|Q = A AND B|
 |-|-|-----------|
 |0|0|0|
 |0|1|0|
 |1|0|0|
+|1|1|1|
+
+# OR GATE
+# Symbol:
+The symbol for a 2-input OR gate looks like this:
+An OR gate is a basic digital logic gate that implements logical disjunction – it outputs TRUE (1) when at least one of its inputs is TRUE.
+# Function of OR Gate:
+The OR gate performs the following function:
+
+.If any one or both inputs are 1, the output is 1.
+.If all inputs are 0, the output is 0.
+# Q
+𝐴 + 𝐵 Q=A+B Or in Boolean logic:
+# Q
+𝐴 ∨ 𝐵 Q=A∨B
+# Truth table 
+|A|B|Q = A OR B|
+|-|-|----------|
+|0|0|0|
+|0|1|1|
+|1|0|1|
 |1|1|1|
 
