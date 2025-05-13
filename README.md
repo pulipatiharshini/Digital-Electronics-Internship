@@ -158,3 +158,19 @@ Result → 057₈
 
 # BASIC LOGIC GATES
 # 1. AND GATE
+# SYMBOL
+The standard symbol for a 2-input AND gate is:
+# Function 
+An AND gate is a fundamental digital logic gate that implements logical conjunction. It gives a high output (1) only when all its inputs are high (1). If any of the inputs is low (0), the output will be low (0).
+The logical function of an AND gate is:
+Q = A • B
+# Q
+𝐴 ⋅ 𝐵 Q=A⋅B Or in Boolean algebra:
+# Q
+𝐴 ∧ 𝐵 Q=A∧B
+# Truth table
+A	B	Q = A AND B
+0	0	0
+0	1	0
+1	0	0
+1	1	1
