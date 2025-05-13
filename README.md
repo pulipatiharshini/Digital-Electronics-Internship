@@ -155,3 +155,6 @@ Step 1: Hex → Binary 2 → 0010 F → 1111 Binary = 00101111₂
 Step 2: Binary → Octal Group 3 bits: 000 | 101 | 111 000 → 0 101 → 5 111 → 7
 
 Result → 057₈
+
+# BASIC LOGIC GATES
+# 1. AND GATE
