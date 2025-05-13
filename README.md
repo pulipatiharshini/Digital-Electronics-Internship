@@ -176,15 +176,14 @@ Q = A • B
 |1|0|0|
 |1|1|1|
 
-# OR GATE
+# 2.OR GATE
 # Symbol:
 The symbol for a 2-input OR gate looks like this:
 An OR gate is a basic digital logic gate that implements logical disjunction – it outputs TRUE (1) when at least one of its inputs is TRUE.
 # Function of OR Gate:
 The OR gate performs the following function:
 
-.If any one or both inputs are 1, the output is 1.
-.If all inputs are 0, the output is 0.
+.If any one or both inputs are 1, the output is 1
 # Q
 𝐴 + 𝐵 Q=A+B Or in Boolean logic:
 # Q
@@ -196,4 +195,20 @@ The OR gate performs the following function:
 |0|1|1|
 |1|0|1|
 |1|1|1|
+# 3.NOT GATE 
+# Symbol:
+The symbol for a NOT gate is:
+# Function 
+A NOT gate, also known as an inverter, is a basic digital logic gate that inverts the input. It has only one input and one output.
+If the input is 1 (TRUE), the output is 0 (FALSE).
+If the input is 0 (FALSE), the output is 1 (TRUE).
+# Q
+𝐴 ‾ Q= A
+# Q
+¬ 𝐴 Q=¬A
+# Truth table 
+|A|Q = NOT A|
+|-|---------|
+|0|1|
+|1|0|
 
