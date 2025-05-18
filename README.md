@@ -28,17 +28,17 @@ Digital electronics is fundamental to modern technology, including computing, co
 
 # Applications of Digital Electronics?
 
-Computing
+1. Computing and Microprocessors
 
-Communication
+2. Communication Systems
 
-Control Systems
+3. Control Systems
 
 Home Appliances
 
-Medical Devices
+1. Smart Refrigerators
 
-Automotive 
+2.Automotive 
 
 # Digital vs Analog signals?
 
