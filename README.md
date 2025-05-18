@@ -24,6 +24,8 @@ Binary System: Using binary numbers (0 and 1) to represent data.
 
 Combinational Circuits: Circuits where the output depends only on the current inputs (e.g., adders, multiplexers).
 
+Digital electronics is fundamental to modern technology, including computing, communication, and control systems. It's used in everything from computers and mobile phones to appliances and automobiles.
+
 # Applications of Digital Electronics?
 
 Computing
