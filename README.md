@@ -69,6 +69,8 @@ In many digital systems, a low voltage represents a 0 (logic low), and a high vo
 
 In digital electronics, number systems are crucial for representing and manipulating data within electronic circuits. The most important number systems are binary (base 2), octal (base 8), and hexadecimal (base 16), with decimal (base 10) being used for human understanding. Binary is fundamental because digital systems primarily operate using two states (0 and 1)
 
+| # Number System | Base | Digital Used | Key Point | Example|
+
 # Binary (Base 2), Decimal (Base 10), Hexadecimal (Base 16).
 
 1. Binary (Base 2)
