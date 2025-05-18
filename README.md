@@ -2,12 +2,13 @@
 
 # Table of contents 
 
-  • What is Digital Electronics 
-  • Applications of Digital Electronics
-  • Digital vs Anaglog signals 
-  • Number Systems 
-  • Conversation between Number Systems
-  • Basic Logic Gates 
+- [What is Digital Electronics](#what-is-digital-electronics)
+- [Applications of Digital Electronics](#applications-of-digital-electronics)
+- [Digital vs Analog Signals](#digital-vs-analog-signals)
+- [Number Systems](#number-systems)
+- [Conversion between Number Systems](#conversion-between-number-systems)
+- [Basic Logic Gates](#basic-logic-gates)
+  
 
 # Task 1
 
@@ -180,96 +181,159 @@ Result → 057₈
 
 # BASIC LOGIC GATES
 
-# 1.AND GATE
+# 1.AND Gate
 
-**SYMBOL:**
+An AND gate is a basic digital logic gate that outputs 1 (true) only when all its inputs are 1. Otherwise, it outputs 0 (false).
 
-![image](https://github.com/user-attachments/assets/6f268541-79f2-44b1-aa14-366ceafd63f8)
+Represented as: A AND B = A ⋅ B or A ∧ B
 
+*Truth Table*
 
-The standard symbol for a 2-input AND gate is:
-
-**Function**
-
-An AND gate is a fundamental digital logic gate that implements logical conjunction. It gives a high output (1) only when all its inputs are high (1). If any of the inputs is low (0), the output will be low (0).
-
-The logical function of an AND gate is:
-
-Q = A • B
-
-𝐴 ⋅ 𝐵 Q=A⋅B Or in Boolean algebra:
-
-𝐴 ∧ 𝐵 Q=A∧B
-
-**Truth table**
-
-|A|B|Q = A AND B|
-|-|-|-----------|
+|A|B| A & B|
+|-----|----|------|
 |0|0|0|
 |0|1|0|
 |1|0|0|
 |1|1|1|
 
-# 2.OR GATE
+*Key Point:*
 
-**Symbol:**
+Output is true (1) only when both inputs are true (1).
 
-![image](https://github.com/user-attachments/assets/154e49e1-55b0-44a7-8c85-048318c03223)
+*Symbol:*
 
-The symbol for a 2-input OR gate looks like this:
+![image](https://github.com/user-attachments/assets/06b17f4e-446d-4716-8b54-1b54191bb661)
 
-An OR gate is a basic digital logic gate that implements logical disjunction – it outputs TRUE (1) when at least one of its inputs is TRUE.
+# 2.OR Gate
 
-**Function of OR Gate:**
+An OR gate is a basic digital logic gate that implements logical disjunction. It gives a high (1) output if at least one of its inputs is high. In other words, the output is true when any input is true.
 
-The OR gate performs the following function:
+*Truth Table:*
+|*A|	**B|	**Y (A OR B)*|
+|-----|-------|---------------|
+|0	|0	|0|
+|0	|1	|1|
+|1	|0	|1|
+|1|	1|	1|
 
-If any one or both inputs are 1, the output is 1
+*Key Points*:
+
+If both inputs are 0, the output is 0.
+
+If at least one input is 1, the output is 1.
+
+*Symbol*
+
+![image](https://github.com/user-attachments/assets/9a5865c7-a982-4b78-a88f-4b383f66c838)
+
+# 3.NOT Gate
+
+A NOT gate, also known as an inverter, is a basic digital logic gate that outputs the opposite (inverse) of its input. It has only one input and one output.
+
+*Function:*
+
+If the input is 1 (true or HIGH), the output is 0 (false or LOW).
+
+If the input is 0, the output is 1
+
+The NOT gate is usually represented by a triangle pointing to the right with a small circle (called a "bubble") at the output.
+
+*Truth Table:*
+|*Input (A)* |	*Output (¬A)*|
+|--------------|------------------|
+|0	|1|
+|1	|0|
+
+This table shows that the NOT gate simply flips the input value.
+
+*Symbol:*
+
+![image](https://github.com/user-attachments/assets/b7ef0b26-2648-4ccd-8ba9-3d6c8bcec104)
 
 
-**Truth table**
+# 4.NAND GATE
 
-|A|B|Q = A OR B|
-|-|-|----------|
-|0|0|0|
-|0|1|1|
-|1|0|1|
-|1|1|1|
+A NAND gate is a fundamental digital logic gate that outputs false (0) only when all its inputs are true (1); otherwise, it outputs true (1).
 
-# 3.NOT GATE
+Definition:
 
-**Symbol:**
 
-![image](https://github.com/user-attachments/assets/2645779e-a694-4bf8-95c7-abf3cea3769f)
+### Truth Table (2-input NAND gate):
 
-The symbol for a NOT gate is:
+| Input A | Input B | Output (A NAND B) |
+| ------- | ------- | ----------------- |
+| 0       | 0       | 1                 |
+| 0       | 1       | 1                 |
+| 1       | 0       | 1                 |
+| 1       | 1       | 0                 |
 
-**Function**
 
-A NOT gate, also known as an inverter, is a basic digital logic gate that inverts the input. It has only one input and one output.
+### Symbol:
 
-If the input is 1 (TRUE), the output is 0 (FALSE).
+![image](https://github.com/user-attachments/assets/e778b15d-9fa1-41a3-a75c-50fd50839e8c)
 
-If the input is 0 (FALSE), the output is 1 (TRUE).
 
-**Truth table** 
+# 5.NOR GATE
 
-|INP A|= OUTPUT Y|
-|-|-|-|----------|
-|0|1|
-|1|0|
+* It’s NOT-OR gate — the output is true only when all inputs are false.
+* It outputs *1* if all inputs are 0, else outputs 0.
 
-# 4. NAND GATE 
+### Truth Table (2-input NOR gate):
 
-**Function**
+| Input A | Input B | Output (A NOR B) |
+| ------- | ------- | ---------------- |
+| 0       | 0       | 1                |
+| 0       | 1       | 0                |
+| 1       | 0       | 0                |
+| 1       | 1       | 0                |
 
-The symbol of a NAND gate is similar to the AND gate symbol, but with an additional circle (representing the NOT operation) at the output.
 
-**Truth table** 
+# Symbol:
 
-|INP A|INP B| = OUTPUT Y|
-|-|-|-|-|-|-|-----------|
-|0|0|1|
-|0|1|1|
-|1|0|1|
-|1|1|0|
+![image](https://github.com/user-attachments/assets/3c3e88e0-6c59-4be3-8378-14e478461cdd)
+
+
+# 6.XOR GATE
+
+* Outputs 1 if the inputs are different.
+  
+* Outputs 0 if the inputs are the same.
+
+---
+
+### Truth Table (2-input XOR gate):
+
+| Input A | Input B | Output (A XOR B) |
+| ------- | ------- | ---------------- |
+| 0       | 0       | 0                |
+| 0       | 1       | 1                |
+| 1       | 0       | 1                |
+| 1       | 1       | 0                |
+
+
+### Symbol: 
+
+![image](https://github.com/user-attachments/assets/8ab12f1d-e963-4a60-9e25-0e380cea3308)
+
+
+# 7.XNOR GATE
+
+* It outputs 1 if the inputs are the same (both 0 or both 1).
+* 
+* It outputs 0 if the inputs are different.
+
+---
+
+### Truth Table (2-input XNOR gate):
+
+| Input A | Input B | Output (A XNOR B) |
+| ------- | ------- | ----------------- |
+| 0       | 0       | 1                 |
+| 0       | 1       | 0                 |
+| 1       | 0       | 0                 |
+| 1       | 1       | 1                 |
+
+
+### Symbol: 
+
+![image](https://github.com/user-attachments/assets/6c954d16-0ade-459d-b01d-2447943fb80b)
