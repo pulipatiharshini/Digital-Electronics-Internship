@@ -268,7 +268,7 @@ The symbol of a NAND gate is similar to the AND gate symbol, but with an additio
 ** Truth table ** 
 
 |INP A|INPB = OUTPUT Y|
-|-|-|-|---------------|
+|-|-|-|-|-|---------|
 |0|0|1|
 |0|1|1|
 |1|0|1|
