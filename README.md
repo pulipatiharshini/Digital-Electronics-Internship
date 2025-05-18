@@ -73,6 +73,7 @@ In digital electronics, number systems are crucial for representing and manipula
 # Binary (Base 2), Decimal (Base 10), Hexadecimal (Base 16).
 
 1. Binary (Base 2)
+
 Digits: 0, 1
 
 Used in: All digital systems; the most fundamental system.
@@ -80,6 +81,7 @@ Used in: All digital systems; the most fundamental system.
 Example: 1011 (binary) = 11 (decimal)
 
 2. Decimal (Base 10)
+
 Digits: 0 to 9
 
 Used in: Human-readable format; not commonly used internally in digital electronics.
