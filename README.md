@@ -1,4 +1,13 @@
-# Digital_electronics_internship
+# Digital_electronics
+
+# Table of contents 
+
+  • What is Digital Electronics 
+  • Applications of Digital Electronics 
+  • Digital vs Anaglog signals 
+  • Number Systems 
+  • Conversation between Number Systems
+  • Basic Logic Gates 
 
 # Task 1
 
