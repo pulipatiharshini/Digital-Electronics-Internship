@@ -254,7 +254,7 @@ If the input is 0 (FALSE), the output is 1 (TRUE).
 
 **Truth table** 
 
-|A|Q = NOT A|
+|INP A|= OUTPUT Y|
 |-|---------|
 |0|1|
 |1|0|
