@@ -261,14 +261,14 @@ If the input is 0 (FALSE), the output is 1 (TRUE).
 
 # 4. NAND GATE 
 
-** Function **
+**Function**
 
 The symbol of a NAND gate is similar to the AND gate symbol, but with an additional circle (representing the NOT operation) at the output.
 
-** Truth table ** 
+**Truth table** 
 
-|INP A|INP B = OUTPUT Y|
-|-|-|-|-|-|-----------|
+|INP A|INP B| = OUTPUT Y|
+|-|-|-|-|-|-|-----------|
 |0|0|1|
 |0|1|1|
 |1|0|1|
