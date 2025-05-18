@@ -2,8 +2,8 @@
 
 # Table of contents 
 
-  | • What is Digital Electronics |
-  | • Applications of Digital Electronics |
+  • What is Digital Electronics 
+  • Applications of Digital Electronics
   • Digital vs Anaglog signals 
   • Number Systems 
   • Conversation between Number Systems
@@ -16,6 +16,13 @@
 Digital electronics is a branch of electronics that deals with systems and devices that use digital signals, which are discrete representations of data, 
 typically using binary code (0s and 1s).
 
+Some key elements in digital electronics include:
+
+Logic Gates: Basic building blocks of digital circuits (AND, OR, NOT, XOR, etc.).
+
+Binary System: Using binary numbers (0 and 1) to represent data.
+
+Combinational Circuits: Circuits where the output depends only on the current inputs (e.g., adders, multiplexers).
 
 # Applications of Digital Electronics?
 
