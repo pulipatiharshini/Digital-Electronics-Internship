@@ -2,8 +2,8 @@
 
 # Table of contents 
 
-  |• What is Digital Electronics|
-  • Applications of Digital Electronics 
+  | • What is Digital Electronics |
+  | • Applications of Digital Electronics |
   • Digital vs Anaglog signals 
   • Number Systems 
   • Conversation between Number Systems
