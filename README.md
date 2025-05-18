@@ -12,7 +12,7 @@
 
 # Task 1
 
-# What is Digital Electronics?
+# What is Digital Electronics
 
 Digital electronics is a branch of electronics that deals with systems and devices that use digital signals, which are discrete representations of data, 
 typically using binary code (0s and 1s).
@@ -27,7 +27,7 @@ Combinational Circuits: Circuits where the output depends only on the current in
 
 Digital electronics is fundamental to modern technology, including computing, communication, and control systems. It's used in everything from computers and mobile phones to appliances and automobiles.
 
-# Applications of Digital Electronics?
+# Applications of Digital Electronics
 
 Computing and Microprocessors
 
@@ -41,7 +41,7 @@ Smart Refrigerators
 
 Automotive 
 
-# Digital vs Analog signals?
+# Digital vs Analog signals
 
 | **Analog** | **Digital** 
 |------------|------------|
