@@ -421,6 +421,38 @@ Signal Combination: Combine signals for output.
 
 Memory: Store data in flip-flops.
 
+**3.NOT GATE - 7404 IC**
+
+| **Pin Number** | **Pin Name** | **Function**                         |
+| -------------- | ------------ | --------------------------------------- |
+| **1**          | **A1**       | Input of the first inverter             |
+| **2**          | **Y1**       | Output of the first inverter            |
+| **3**          | **A2**       | Input of the second inverter            |
+| **4**          | **Y2**       | Output of the second inverter           |
+| **5**          | **A3**       | Input of the third inverter             |
+| **6**          | **Y3**       | Output of the third inverter            |
+| **7**          | **GND**      | Ground connection                       |
+| **8**          | **Y4**       | Output of the fourth inverter           |
+| **9**          | **A4**       | Input of the fourth inverter            |
+| **10**         | **Y5**       | Output of the fifth inverter            |
+| **11**         | **A5**       | Input of the fifth inverter             |
+| **12**         | **Y6**       | Output of the sixth inverter            |
+| **13**         | **A6**       | Input of the sixth inverter             |
+| **14**         | **VCC**      | Positive supply voltage (typically +5V) |
+
+
+**Applications**
+
+The 7404 Hex Inverter IC is used for:
+
+Signal Inversion: Inverts logic signals.
+
+Logic Gates: Builds NAND, NOR, etc.
+
+Oscillators: Generates clock signals.
+
+Pulse Shaping: Cleans noisy signals.
+
 
 
 
