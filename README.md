@@ -487,7 +487,7 @@ Sequential Logic: Designs state machines and timers.
 
 **5.NOR GATE - 7402 IC**
 
-| **Pin Number** | **Pin Name** | **Pin Description**                                         |
+| **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
 | 1              | A1           | Input pin for the first input of the first NOR gate (G1).   |
 | 2              | B1           | Input pin for the second input of the first NOR gate (G1).  |
@@ -519,7 +519,7 @@ Control Systems: Applied in sequential logic and control systems.
 
 **6.XOR GATE - 7486 IC**
 
-| **Pin Number** | **Pin Name** | **Pin Description**                                         |
+| **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
 | 1              | A1           | Input pin for the first input of the first XOR gate (G1).   |
 | 2              | B1           | Input pin for the second input of the first XOR gate (G1).  |
@@ -550,6 +550,39 @@ Data Comparison: In digital comparators.
 Digital Signal Processing: For signal manipulation.
 
 
-**7.
+**7.XNOR GATE - 74266 IC**
+
+| **Pin No.** | **Pin Name** | **Function**                  |
+| ----------- | ------------ | -------------------------------- |
+| 1           | Y1           | Output for Buffer 1 (open-drain) |
+| 2           | Y2           | Output for Buffer 2 (open-drain) |
+| 3           | Y3           | Output for Buffer 3 (open-drain) |
+| 4           | Y4           | Output for Buffer 4 (open-drain) |
+| 5           | Y5           | Output for Buffer 5 (open-drain) |
+| 6           | Y6           | Output for Buffer 6 (open-drain) |
+| 7           | GND          | Ground (0V) connection           |
+| 8           | A1           | Input for Buffer 1 (logic input) |
+| 9           | A2           | Input for Buffer 2 (logic input) |
+| 10          | A3           | Input for Buffer 3 (logic input) |
+| 11          | A4           | Input for Buffer 4 (logic input) |
+| 12          | A5           | Input for Buffer 5 (logic input) |
+| 13          | A6           | Input for Buffer 6 (logic input) |
+| 14          | Vcc          | Power supply (positive voltage)  |
+
+**Description**
+
+The LS 74266 is used for:
+
+Bus Systems (e.g., I²C)
+
+Signal Level Shifting
+
+Open-Drain Logic
+
+Interrupt Lines
+
+Multiple Device Control
+
+
 
 
