@@ -320,8 +320,7 @@ Definition:
 
 # 7.XNOR GATE
 
-* It outputs 1 if the inputs are the same (both 0 or both 1).
-* 
+* It outputs 1 if the inputs are the same (both 0 or both 1)
 * It outputs 0 if the inputs are different.
 
 ---
@@ -355,6 +354,39 @@ Definition:
 | NOR        | ↓      | Output is LOW if at least one input is HIGH (NOT-OR) | ¬(A + B)           | 7402                         |
 | XOR        | ⊕      | Output is HIGH if inputs are different               | A ⊕ B              | 7486                         |
 | XNOR       | =      | Output is HIGH if inputs are the same (NOT-XOR)      | ¬(A ⊕ B)           | 74266, 74LS266               |
+
+
+**1.AND GATE - 7408 IC**
+
+| **Pin Number** | **Pin Name** | **Function**                         |
+| -------------- | ------------ | ------------------------------------ |
+| 1              | A1           | Input to the 1st AND gate (A)        |
+| 2              | B1           | Input to the 1st AND gate (B)        |
+| 3              | Y1           | Output of the 1st AND gate (A AND B) |
+| 4              | A2           | Input to the 2nd AND gate (A)        |
+| 5              | B2           | Input to the 2nd AND gate (B)        |
+| 6              | Y2           | Output of the 2nd AND gate (A AND B) |
+| 8              | A3           | Input to the 3rd AND gate (A)        |
+| 9              | B3           | Input to the 3rd AND gate (B)        |
+| 10             | Y3           | Output of the 3rd AND gate (A AND B) |
+| 11             | A4           | Input to the 4th AND gate (A)        |
+| 12             | B4           | Input to the 4th AND gate (B)        |
+| 13             | Y4           | Output of the 4th AND gate (A AND B) |
+| 7              | Vcc          | Power supply pin (Typically +5V)     |
+| 14             | GND          | Ground pin                           |
+
+
+**Applications**
+ 
+The 7408 IC contains four 2-input AND gates. It’s used in:
+
+Logic Circuits for basic AND operations.
+
+Control Systems for conditions requiring multiple inputs.
+
+Timing & Synchronization in clocked circuits.
+
+Arithmetic for binary addition or multiplication.
 
 
 
