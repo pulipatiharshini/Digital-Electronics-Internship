@@ -453,7 +453,69 @@ Oscillators: Generates clock signals.
 
 Pulse Shaping: Cleans noisy signals.
 
+**4.NAND GATE - 7400 IC**
 
+| **Pin Number** | **Pin Name** | **Function**                                                                             |
+| -------------- | ------------ | ----------------------------------------------------------------------------------------------- |
+| 1              | A1           | Input pin for the first input of the first NAND gate (G1).                                      |
+| 2              | B1           | Input pin for the second input of the first NAND gate (G1).                                     |
+| 3              | Output 1     | Output of the first NAND gate (G1).                                                             |
+| 4              | GND          | Ground pin. Connect to the ground of the circuit.                                               |
+| 5              | A2           | Input pin for the first input of the second NAND gate (G2).                                     |
+| 6              | B2           | Input pin for the second input of the second NAND gate (G2).                                    |
+| 7              | Output 2     | Output of the second NAND gate (G2).                                                            |
+| 8              | VCC          | Power supply pin. Connect to +5V or appropriate voltage depending on the specific logic family. |
+| 9              | A3           | Input pin for the first input of the third NAND gate (G3).                                      |
+| 10             | B3           | Input pin for the second input of the third NAND gate (G3).                                     |
+| 11             | Output 3     | Output of the third NAND gate (G3).                                                             |
+| 12             | A4           | Input pin for the first input of the fourth NAND gate (G4).                                     |
+| 13             | B4           | Input pin for the second input of the fourth NAND gate (G4).                                    |
+| 14             | Output 4     | Output of the fourth NAND gate (G4).                                                            |
+
+**Applications**
+
+The 7400 IC is used in:
+
+Logic Gates: Builds basic gates and complex circuits.
+
+Flip-Flops: Creates SR, D, and JK flip-flops for memory.
+
+Counters/Registers: Used in binary counters and shift registers.
+
+Sequential Logic: Designs state machines and timers.
+
+
+**5.NOR GATE - 7402 IC**
+
+| **Pin Number** | **Pin Name** | **Pin Description**                                         |
+| -------------- | ------------ | ----------------------------------------------------------- |
+| 1              | A1           | Input pin for the first input of the first NOR gate (G1).   |
+| 2              | B1           | Input pin for the second input of the first NOR gate (G1).  |
+| 3              | Output 1     | Output of the first NOR gate (G1).                          |
+| 4              | GND          | Ground pin. Connect to the ground of the circuit.           |
+| 5              | A2           | Input pin for the first input of the second NOR gate (G2).  |
+| 6              | B2           | Input pin for the second input of the second NOR gate (G2). |
+| 7              | Output 2     | Output of the second NOR gate (G2).                         |
+| 8              | VCC          | Power supply pin. Connect to +5V or appropriate voltage.    |
+| 9              | A3           | Input pin for the first input of the third NOR gate (G3).   |
+| 10             | B3           | Input pin for the second input of the third NOR gate (G3).  |
+| 11             | Output 3     | Output of the third NOR gate (G3).                          |
+| 12             | A4           | Input pin for the first input of the fourth NOR gate (G4).  |
+| 13             | B4           | Input pin for the second input of the fourth NOR gate (G4). |
+| 14             | Output 4     | Output of the fourth NOR gate (G4).                         |
+
+
+**Applications**
+
+The 7402 IC is used for:
+
+Logic Circuits: Implements basic logic operations.
+
+Memory Circuits: Forms flip-flops and memory elements.
+
+Signal Inversion: Used for inverting signals in circuits.
+
+Control Systems: Applied in sequential logic and control systems.
 
 
 
