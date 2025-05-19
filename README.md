@@ -397,6 +397,9 @@ Arithmetic for binary addition or multiplication.
 
 **2.OR GATE - 7432 IC**
 
+![image](https://github.com/user-attachments/assets/f51060d3-9527-4c46-b48a-29dbd0ffdb54)
+
+![image](https://github.com/user-attachments/assets/9216fa49-fb7c-4795-a671-d44e4b6030a2)
 
 | Pin Number | Pin Name                  | Function                                 |
 | ---------- | ------------------------- | ---------------------------------------- |
