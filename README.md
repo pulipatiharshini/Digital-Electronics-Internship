@@ -1,4 +1,4 @@
-# Digital_Electronics
+# Digital_Electronics_Internship
 
 # Table of contents 
 
@@ -339,3 +339,8 @@ Definition:
 ### Symbol: 
 
 ![image](https://github.com/user-attachments/assets/6c954d16-0ade-459d-b01d-2447943fb80b)
+
+# Integrated Circuits-IC's
+
+**What is an Ic**
+
