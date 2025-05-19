@@ -360,9 +360,7 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 **1.AND GATE - 7408 IC**
 
-![image](https://github.com/user-attachments/assets/c844323d-756e-45f9-97b4-c84b2a2ddb1c)
-
-![image](https://github.com/user-attachments/assets/3b2a3ff7-335f-460c-9153-dd8157a9ceb3)
+![image](https://github.com/user-attachments/assets/cb7096d8-4fae-4a1e-a0ff-5204effddf5a)
 
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | ------------------------------------ |
@@ -397,9 +395,7 @@ Arithmetic for binary addition or multiplication.
 
 **2.OR GATE - 7432 IC**
 
-![image](https://github.com/user-attachments/assets/f51060d3-9527-4c46-b48a-29dbd0ffdb54)
-
-![image](https://github.com/user-attachments/assets/9216fa49-fb7c-4795-a671-d44e4b6030a2)
+![image](https://github.com/user-attachments/assets/a93f89ba-5389-436e-aa8d-42604ea7bc62)
 
 | Pin Number | Pin Name                  | Function                                 |
 | ---------- | ------------------------- | ---------------------------------------- |
@@ -430,9 +426,7 @@ Memory: Store data in flip-flops.
 
 **3.NOT GATE - 7404 IC**
 
-![image](https://github.com/user-attachments/assets/2f9e41ef-60be-4513-a4cd-615608ae6ffb)
-
-![image](https://github.com/user-attachments/assets/6dbca3b3-8d17-4b35-bdee-dd3accc3a4a9)
+![image](https://github.com/user-attachments/assets/4631b202-0aab-47cd-96d1-8cefdcc79094)
 
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | --------------------------------------- |
@@ -466,9 +460,7 @@ Pulse Shaping: Cleans noisy signals.
 
 **4.NAND GATE - 7400 IC**
 
-![image](https://github.com/user-attachments/assets/718150c0-662f-49d0-9585-b9147ef3e8f4)
-
-![image](https://github.com/user-attachments/assets/b355ab93-7209-4eb4-8781-d53df7260473)
+![image](https://github.com/user-attachments/assets/ab715794-ca3e-4cc3-b0e3-9ddf5699c003)
 
 | **Pin Number** | **Pin Name** | **Function**                                                                             |
 | -------------- | ------------ | ----------------------------------------------------------------------------------------------- |
@@ -502,9 +494,7 @@ Sequential Logic: Designs state machines and timers.
 
 **5.NOR GATE - 7402 IC**
 
-![image](https://github.com/user-attachments/assets/37ef15d9-f545-4f6e-b5d3-26a114ebdef9)
-
-![image](https://github.com/user-attachments/assets/e0c6c236-c227-4e24-8ffc-b6f031a62d7d)
+![image](https://github.com/user-attachments/assets/c6c825aa-818a-4dab-a85a-3b7d0fe7acd0)
 
 | **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
@@ -538,9 +528,7 @@ Control Systems: Applied in sequential logic and control systems.
 
 **6.XOR GATE - 7486 IC**
 
-![image](https://github.com/user-attachments/assets/1193bfdc-87aa-4b7f-8483-150f51bb11d2)
-
-![image](https://github.com/user-attachments/assets/0a085c32-654d-47a8-b00f-4b02ecca7500)
+![image](https://github.com/user-attachments/assets/c0efe1dc-69fd-4962-8765-50af742d3877)
 
 | **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
@@ -575,9 +563,7 @@ Digital Signal Processing: For signal manipulation.
 
 **7.XNOR GATE - 74266 IC**
 
-![image](https://github.com/user-attachments/assets/8113d208-7e1c-417f-9106-e9bafc9c4a64)
-
-![image](https://github.com/user-attachments/assets/29861909-1d58-4f74-8010-ffad7ac8209b)
+![image](https://github.com/user-attachments/assets/377c4950-ab15-4d06-9218-266d993dbec0)
 
 | **Pin No.** | **Pin Name** | **Function**                  |
 | ----------- | ------------ | -------------------------------- |
