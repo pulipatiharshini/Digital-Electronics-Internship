@@ -393,21 +393,35 @@ Arithmetic for binary addition or multiplication.
 
 **2.OR GATE - 7432 IC**
 
-| Pin | Function      |
-|-----|---------------|
-| 1   | Output        |
-| 2   | Input A       |
-| 3   | Input B       |
-| 4   | Output        |
-| 5   | Input A       |
-| 6   | Input B       |
-| 7   | Ground (GND)  |
-| 8   | Output        |
-| 9   | Input A       |
-| 10  | Input B       |
-| 11  | Output        |
-| 12  | Input A       |
-| 13  | Input B       |
-| 14  | VCC (Power) |
+
+| Pin Number | Pin Name                  | Function                                 |
+| ---------- | ------------------------- | ---------------------------------------- |
+| **1**      | **Input A (1st OR Gate)** | First input for the first OR gate.       |
+| **2**      | **Input B (1st OR Gate)** | Second input for the first OR gate.      |
+| **3**      | **Output (1st OR Gate)**  | Output for the first OR gate.            |
+| **4**      | **Ground (GND)**          | Connects to the ground.                  |
+| **5**      | **Input A (2nd OR Gate)** | First input for the second OR gate.      |
+| **6**      | **Input B (2nd OR Gate)** | Second input for the second OR gate.     |
+| **7**      | **Output (2nd OR Gate)**  | Output for the second OR gate.           |
+| **8**      | **Ground (GND)**          | Ground connection.                       |
+| **9**      | **Input A (3rd OR Gate)** | First input for the third OR gate.       |
+| **10**     | **Input B (3rd OR Gate)** | Second input for the third OR gate.      |
+| **11**     | **Output (3rd OR Gate)**  | Output for the third OR gate.            |
+| **12**     | **Vcc**                   | Connects to the positive supply voltage. |
+| **13**     | **Input A (4th OR Gate)** | First input for the fourth OR gate.      |
+| **14**     | **Input B (4th OR Gate)** | Second input for the fourth OR gate.     |
+
+**Applications**
+
+Adders: Perform binary addition.
+
+Control Systems: Trigger actions in alarms.
+
+Signal Combination: Combine signals for output.
+
+Memory: Store data in flip-flops.
+
+
+
 
 
