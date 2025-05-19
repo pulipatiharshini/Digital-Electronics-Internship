@@ -1,4 +1,4 @@
-# Digital_electronics
+# Digital_Electronics
 
 # Table of contents 
 
