@@ -538,6 +538,10 @@ Control Systems: Applied in sequential logic and control systems.
 
 **6.XOR GATE - 7486 IC**
 
+![image](https://github.com/user-attachments/assets/1193bfdc-87aa-4b7f-8483-150f51bb11d2)
+
+![image](https://github.com/user-attachments/assets/0a085c32-654d-47a8-b00f-4b02ecca7500)
+
 | **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
 | 1              | A1           | Input pin for the first input of the first XOR gate (G1).   |
