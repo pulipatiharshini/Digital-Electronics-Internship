@@ -389,4 +389,23 @@ Timing & Synchronization in clocked circuits.
 Arithmetic for binary addition or multiplication.
 
 
+**2.OR GATE - 7432 IC**
+
+| Pin | Function      |
+|-----|---------------|
+| 1   | Output        |
+| 2   | Input A       |
+| 3   | Input B       |
+| 4   | Output        |
+| 5   | Input A       |
+| 6   | Input B       |
+| 7   | Ground (GND)  |
+| 8   | Output        |
+| 9   | Input A       |
+| 10  | Input B       |
+| 11  | Output        |
+| 12  | Input A       |
+| 13  | Input B       |
+| 14  | VCC (Power) |
+
 
