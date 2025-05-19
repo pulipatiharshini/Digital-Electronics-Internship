@@ -90,6 +90,7 @@ Used in: Human-readable format; not commonly used internally in digital electron
 Example: 27 (decimal) = 11011 (binary)
 
 3. Hexadecimal (Base 16)
+
 Digits: 0–9 and A–F (where A=10 to F=15)
 
 Used in: Compact representation of binary values (4 bits = 1 hex digit).
@@ -99,11 +100,13 @@ Example: 2F (hex) = 0010 1111 (binary) = 47 (decimal)
 # Conversion between number systems 
 
 **1. Binary → Decimal**
+
 Binary: 1011₂
 
 = (1×2³) + (0×2²) + (1×2¹) + (1×2⁰) = 8 + 0 + 2 + 1 = 11₁₀
 
 **2. Decimal → Binary**
+
 Decimal: 13₁₀
 
 13 ÷ 2 = 6 remainder 1 6 ÷ 2 = 3 remainder 0 3 ÷ 2 = 1 remainder 1 1 ÷ 2 = 0 remainder 1
@@ -111,6 +114,7 @@ Decimal: 13₁₀
 Read remainders bottom to top → 1101₂
 
 **3. Binary → Octal**
+
 Binary: 110110₂
 
 Group in 3 bits → 110 | 110 110₂ = 6₈ 110₂ = 6₈
@@ -118,6 +122,7 @@ Group in 3 bits → 110 | 110 110₂ = 6₈ 110₂ = 6₈
 Result → 66₈
 
 **4. Octal → Binary**
+
 Octal: 57₈
 
 5₈ → 101₂ 7₈ → 111₂
@@ -125,6 +130,7 @@ Octal: 57₈
 Result → 101111₂
 
 **5. Binary → Hexadecimal**
+
 Binary: 10101110₂
 
 Group in 4 bits → 1010 | 1110 1010₂ = A₁₆ 1110₂ = E₁₆
@@ -132,6 +138,7 @@ Group in 4 bits → 1010 | 1110 1010₂ = A₁₆ 1110₂ = E₁₆
 Result → AE₁₆
 
 **6. Hexadecimal → Binary**
+
 Hex: 3F₁₆
 
 3₁₆ → 0011₂ F₁₆ → 1111₂
@@ -139,6 +146,7 @@ Hex: 3F₁₆
 Result → 00111111₂
 
 **7. Decimal → Octal**
+
 Decimal: 125₁₀
 
 125 ÷ 8 = 15 remainder 5 15 ÷ 8 = 1 remainder 7 1 ÷ 8 = 0 remainder 1
@@ -146,11 +154,13 @@ Decimal: 125₁₀
 Read remainders bottom to top → 175₈
 
 **8. Octal → Decimal**
+
 Octal: 745₈
 
 = (7×8²) + (4×8¹) + (5×8⁰) = (7×64) + (4×8) + (5×1) = 448 + 32 + 5 = 485₁₀
 
 **9. Decimal → Hexadecimal**
+
 Decimal: 254₁₀
 
 254 ÷ 16 = 15 remainder 14 (E) 15 ÷ 16 = 0 remainder 15 (F)
@@ -158,11 +168,13 @@ Decimal: 254₁₀
 Read remainders bottom to top → FE₁₆
 
 **10. Hexadecimal → Decimal**
+
 Hex: 2A₁₆
 
 = (2×16¹) + (A×16⁰) = (2×16) + (10×1) = 32 + 10 = 42₁₀
 
 **11. Octal → Hexadecimal**
+
 Octal: 745₈
 
 Step 1: Octal → Binary 7 → 111 4 → 100 5 → 101 Binary = 111100101₂
@@ -172,6 +184,7 @@ Step 2: Binary → Hex Group 4 bits: 0011 | 1100 | 101 (pad left 0 → 0101) 001
 Result → 3C5₁₆
 
 **12. Hexadecimal → Octal**
+
 Hex: 2F₁₆
 
 Step 1: Hex → Binary 2 → 0010 F → 1111 Binary = 00101111₂
@@ -190,7 +203,7 @@ An AND gate is a basic digital logic gate that outputs 1 (true) only when all it
 
 Represented as: A AND B = A ⋅ B or A ∧ B
 
-*Truth Table*
+**Truth Table**
 
 |A|B| A & B|
 |-----|----|------|
