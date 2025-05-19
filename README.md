@@ -394,13 +394,13 @@ A tiny electronic device that combines multiple electronic components, such as t
  
 The 7408 IC contains four 2-input AND gates. It’s used in:
 
-Logic Circuits for basic AND operations.
+•Logic Circuits for basic AND operations.
 
-Control Systems for conditions requiring multiple inputs.
+•Control Systems for conditions requiring multiple inputs.
 
-Timing & Synchronization in clocked circuits.
+•Timing & Synchronization in clocked circuits.
 
-Arithmetic for binary addition or multiplication.
+•Arithmetic for binary addition or multiplication.
 
 
 **2.OR GATE - 7432 IC**
@@ -428,13 +428,13 @@ Arithmetic for binary addition or multiplication.
 
 **Description**
 
-Adders: Perform binary addition.
+•Adders: Perform binary addition.
 
-Control Systems: Trigger actions in alarms.
+•Control Systems: Trigger actions in alarms.
 
-Signal Combination: Combine signals for output.
+•Signal Combination: Combine signals for output.
 
-Memory: Store data in flip-flops.
+•Memory: Store data in flip-flops.
 
 **3.NOT GATE - 7404 IC**
 
@@ -464,13 +464,13 @@ Memory: Store data in flip-flops.
 
 The 7404 Hex Inverter IC is used for:
 
-Signal Inversion: Inverts logic signals.
+•Signal Inversion: Inverts logic signals.
 
-Logic Gates: Builds NAND, NOR, etc.
+•Logic Gates: Builds NAND, NOR, etc.
 
-Oscillators: Generates clock signals.
+•Oscillators: Generates clock signals.
 
-Pulse Shaping: Cleans noisy signals.
+•Pulse Shaping: Cleans noisy signals.
 
 **4.NAND GATE - 7400 IC**
 
@@ -499,13 +499,13 @@ Pulse Shaping: Cleans noisy signals.
 
 The 7400 IC is used in:
 
-Logic Gates: Builds basic gates and complex circuits.
+•Logic Gates: Builds basic gates and complex circuits.
 
-Flip-Flops: Creates SR, D, and JK flip-flops for memory.
+•Flip-Flops: Creates SR, D, and JK flip-flops for memory.
 
-Counters/Registers: Used in binary counters and shift registers.
+•Counters/Registers: Used in binary counters and shift registers.
 
-Sequential Logic: Designs state machines and timers.
+•Sequential Logic: Designs state machines and timers.
 
 
 **5.NOR GATE - 7402 IC**
@@ -536,13 +536,13 @@ Sequential Logic: Designs state machines and timers.
 
 The 7402 IC is used for:
 
-Logic Circuits: Implements basic logic operations.
+•Logic Circuits: Implements basic logic operations.
 
-Memory Circuits: Forms flip-flops and memory elements.
+•Memory Circuits: Forms flip-flops and memory elements.
 
-Signal Inversion: Used for inverting signals in circuits.
+•Signal Inversion: Used for inverting signals in circuits.
 
-Control Systems: Applied in sequential logic and control systems.
+•Control Systems: Applied in sequential logic and control systems.
 
 **6.XOR GATE - 7486 IC**
 
@@ -572,13 +572,13 @@ Control Systems: Applied in sequential logic and control systems.
 
 The 7486 IC is used for:
 
-Binary Adders: In half and full adders.
+•Binary Adders: In half and full adders.
 
-Error Detection: Parity generators and checkers.
+•Error Detection: Parity generators and checkers.
 
-Data Comparison: In digital comparators.
+•Data Comparison: In digital comparators.
 
-Digital Signal Processing: For signal manipulation.
+•Digital Signal Processing: For signal manipulation.
 
 
 **7.XNOR GATE - 74266 IC**
@@ -606,17 +606,17 @@ Digital Signal Processing: For signal manipulation.
 
 **Description**
 
-The LS 74266 is used for:
+•The LS 74266 is used for:
 
-Bus Systems (e.g., I²C)
+•Bus Systems (e.g., I²C)
 
-Signal Level Shifting
+•Signal Level Shifting
 
-Open-Drain Logic
+•Open-Drain Logic
 
-Interrupt Lines
+•Interrupt Lines
 
-Multiple Device Control.
+•Multiple Device Control.
 
 
 
