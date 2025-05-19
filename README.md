@@ -344,3 +344,17 @@ Definition:
 
 **What is an Ic**
 
+**Types of Logic Gates and Their ICs**
+
+| Logic Gate | Symbol | Function                                             | Boolean Expression | Common ICs (TTL 74xx Series) |
+| ---------- | ------ | ---------------------------------------------------- | ------------------ | ---------------------------- |
+| AND        | ∧      | Output is HIGH only if all inputs are HIGH           | A · B              | 7408                         |
+| OR         | ∨      | Output is HIGH if at least one input is HIGH         | A + B              | 7432                         |
+| NOT        | ¬      | Inverts the input                                    | ¬A or A̅           | 7404                         |
+| NAND       | ↑      | Output is LOW only if all inputs are HIGH (NOT-AND)  | ¬(A · B)           | 7400                         |
+| NOR        | ↓      | Output is LOW if at least one input is HIGH (NOT-OR) | ¬(A + B)           | 7402                         |
+| XOR        | ⊕      | Output is HIGH if inputs are different               | A ⊕ B              | 7486                         |
+| XNOR       | =      | Output is HIGH if inputs are the same (NOT-XOR)      | ¬(A ⊕ B)           | 74266, 74LS266               |
+
+
+
