@@ -343,6 +343,8 @@ Definition:
 
 **What is an Ic**
 
+A tiny electronic device that combines multiple electronic components, such as transistors, resistors, and capacitors, onto a single semiconductor chip.
+
 **Types of Logic Gates and Their ICs**
 
 | Logic Gate | Symbol | Function                                             | Boolean Expression | Common ICs (TTL 74xx Series) |
