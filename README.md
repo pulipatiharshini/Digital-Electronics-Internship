@@ -606,7 +606,7 @@ Open-Drain Logic
 
 Interrupt Lines
 
-Multiple Device Control
+Multiple Device Control.
 
 
 
