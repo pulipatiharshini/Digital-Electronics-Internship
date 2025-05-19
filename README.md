@@ -360,6 +360,10 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 **1.AND GATE - 7408 IC**
 
+![image](https://github.com/user-attachments/assets/c844323d-756e-45f9-97b4-c84b2a2ddb1c)
+
+![image](https://github.com/user-attachments/assets/3b2a3ff7-335f-460c-9153-dd8157a9ceb3)
+
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | ------------------------------------ |
 | 1              | A1           | Input to the 1st AND gate (A)        |
