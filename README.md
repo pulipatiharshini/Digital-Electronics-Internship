@@ -8,6 +8,7 @@
 - [Number Systems](#number-systems)
 - [Conversion between Number Systems](#conversion-between-number-systems)
 - [Basic Logic Gates](#basic-logic-gates)
+- [Integrated Circuits-IC's](#integrated-circuits-ics)
   
 
 # Task 1
