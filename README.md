@@ -575,6 +575,10 @@ Digital Signal Processing: For signal manipulation.
 
 **7.XNOR GATE - 74266 IC**
 
+![image](https://github.com/user-attachments/assets/8113d208-7e1c-417f-9106-e9bafc9c4a64)
+
+![image](https://github.com/user-attachments/assets/29861909-1d58-4f74-8010-ffad7ac8209b)
+
 | **Pin No.** | **Pin Name** | **Function**                  |
 | ----------- | ------------ | -------------------------------- |
 | 1           | Y1           | Output for Buffer 1 (open-drain) |
