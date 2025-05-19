@@ -315,7 +315,7 @@ Definition:
 
 ### Symbol: 
 
-![image](https://github.com/user-attachments/assets/c0efe1dc-69fd-4962-8765-50af742d3877)
+![image](https://github.com/user-attachments/assets/f6bcbeed-6b5c-4962-90e2-d6790a4e9890)
 
 # 7.XNOR GATE
 
