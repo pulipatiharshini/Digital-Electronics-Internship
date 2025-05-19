@@ -466,6 +466,10 @@ Pulse Shaping: Cleans noisy signals.
 
 **4.NAND GATE - 7400 IC**
 
+![image](https://github.com/user-attachments/assets/718150c0-662f-49d0-9585-b9147ef3e8f4)
+
+![image](https://github.com/user-attachments/assets/b355ab93-7209-4eb4-8781-d53df7260473)
+
 | **Pin Number** | **Pin Name** | **Function**                                                                             |
 | -------------- | ------------ | ----------------------------------------------------------------------------------------------- |
 | 1              | A1           | Input pin for the first input of the first NAND gate (G1).                                      |
