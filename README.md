@@ -212,11 +212,11 @@ Represented as: A AND B = A ⋅ B or A ∧ B
 |1|0|0|
 |1|1|1|
 
-*Key Point:*
+**Key Point:**
 
 Output is true (1) only when both inputs are true (1).
 
-*Symbol:*
+**Symbol:**
 
 ![image](https://github.com/user-attachments/assets/cb7096d8-4fae-4a1e-a0ff-5204effddf5a)
 
@@ -224,7 +224,7 @@ Output is true (1) only when both inputs are true (1).
 
 An OR gate is a basic digital logic gate that implements logical disjunction. It gives a high (1) output if at least one of its inputs is high. In other words, the output is true when any input is true.
 
-*Truth Table:*
+**Truth Table:**
 |*A|	**B|	**Y (A OR B)*|
 |-----|-------|---------------|
 |0	|0	|0|
@@ -232,7 +232,7 @@ An OR gate is a basic digital logic gate that implements logical disjunction. It
 |1	|0	|1|
 |1|	1|	1|
 
-*Key Points*:
+**Key Points**
 
 If both inputs are 0, the output is 0.
 
@@ -246,7 +246,7 @@ If at least one input is 1, the output is 1.
 
 A NOT gate, also known as an inverter, is a basic digital logic gate that outputs the opposite (inverse) of its input. It has only one input and one output.
 
-*Function:*
+**Function:**
 
 If the input is 1 (true or HIGH), the output is 0 (false or LOW).
 
@@ -254,7 +254,7 @@ If the input is 0, the output is 1
 
 The NOT gate is usually represented by a triangle pointing to the right with a small circle (called a "bubble") at the output.
 
-*Truth Table:*
+**Truth Table:**
 |*Input (A)* |	*Output (¬A)*|
 |--------------|------------------|
 |0	|1|
@@ -262,19 +262,17 @@ The NOT gate is usually represented by a triangle pointing to the right with a s
 
 This table shows that the NOT gate simply flips the input value.
 
-*Symbol:*
+**Symbol:**
 
 ![image](https://github.com/user-attachments/assets/4631b202-0aab-47cd-96d1-8cefdcc79094)
 
 # 4.NAND GATE
 
-A NAND gate is a fundamental digital logic gate that outputs false (0) only when all its inputs are true (1); otherwise, it outputs true (1).
-
 Definition:
 
+A NAND gate is a fundamental digital logic gate that outputs false (0) only when all its inputs are true (1); otherwise, it outputs true (1).
 
-### Truth Table (2-input NAND gate):
-
+**Truth Table**
 | Input A | Input B | Output (A NAND B) |
 | ------- | ------- | ----------------- |
 | 0       | 0       | 1                 |
@@ -283,17 +281,18 @@ Definition:
 | 1       | 1       | 0                 |
 
 
-### Symbol:
+**Symbol:**
 
 ![image](https://github.com/user-attachments/assets/ab715794-ca3e-4cc3-b0e3-9ddf5699c003)
 
 
 # 5.NOR GATE
 
-* It’s NOT-OR gate — the output is true only when all inputs are false.
-* It outputs *1* if all inputs are 0, else outputs 0.
+It’s NOT-OR gate — the output is true only when all inputs are false.
 
-### Truth Table (2-input NOR gate):
+It outputs *1* if all inputs are 0, else outputs 0.
+
+**Truth Table** 
 
 | Input A | Input B | Output (A NOR B) |
 | ------- | ------- | ---------------- |
@@ -303,20 +302,18 @@ Definition:
 | 1       | 1       | 0                |
 
 
-# Symbol:
+**Symbol:**
 
 ![image](https://github.com/user-attachments/assets/c6c825aa-818a-4dab-a85a-3b7d0fe7acd0)
 
 
 # 6.XOR GATE
 
-* Outputs 1 if the inputs are different.
+Outputs 1 if the inputs are different.
   
-* Outputs 0 if the inputs are the same.
+Outputs 0 if the inputs are the same.
 
----
-
-### Truth Table (2-input XOR gate):
+**Truth Table** 
 
 | Input A | Input B | Output (A XOR B) |
 | ------- | ------- | ---------------- |
@@ -326,18 +323,17 @@ Definition:
 | 1       | 1       | 0                |
 
 
-### Symbol: 
+**Symbol:** 
 
 ![image](https://github.com/user-attachments/assets/f6bcbeed-6b5c-4962-90e2-d6790a4e9890)
 
 # 7.XNOR GATE
 
-* It outputs 1 if the inputs are the same (both 0 or both 1)
-* It outputs 0 if the inputs are different.
+It outputs 1 if the inputs are the same (both 0 or both 1)
 
----
+It outputs 0 if the inputs are different.
 
-### Truth Table (2-input XNOR gate):
+**Truth Table**
 
 | Input A | Input B | Output (A XNOR B) |
 | ------- | ------- | ----------------- |
@@ -347,7 +343,7 @@ Definition:
 | 1       | 1       | 1                 |
 
 
-### Symbol: 
+**Symbol** 
 
 ![image](https://github.com/user-attachments/assets/377c4950-ab15-4d06-9218-266d993dbec0)
 
