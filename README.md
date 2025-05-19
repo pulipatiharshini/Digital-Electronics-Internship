@@ -430,6 +430,10 @@ Memory: Store data in flip-flops.
 
 **3.NOT GATE - 7404 IC**
 
+![image](https://github.com/user-attachments/assets/2f9e41ef-60be-4513-a4cd-615608ae6ffb)
+
+![image](https://github.com/user-attachments/assets/6dbca3b3-8d17-4b35-bdee-dd3accc3a4a9)
+
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | --------------------------------------- |
 | **1**          | **A1**       | Input of the first inverter             |
