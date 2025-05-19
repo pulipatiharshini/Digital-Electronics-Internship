@@ -502,6 +502,10 @@ Sequential Logic: Designs state machines and timers.
 
 **5.NOR GATE - 7402 IC**
 
+![image](https://github.com/user-attachments/assets/37ef15d9-f545-4f6e-b5d3-26a114ebdef9)
+
+![image](https://github.com/user-attachments/assets/e0c6c236-c227-4e24-8ffc-b6f031a62d7d)
+
 | **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
 | 1              | A1           | Input pin for the first input of the first NOR gate (G1).   |
