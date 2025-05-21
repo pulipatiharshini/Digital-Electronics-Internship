@@ -647,5 +647,18 @@ https://www.tinkercad.com/things/1emzC4qRiU8-xnor-gate-ic-74266
 •Multiple Device Control.
 
 
+#Applications of IC's 
+
+| **Logic Gate** | **Common IC Number**     | **Application Examples**                              |
+| -------------- | ------------------------ | ----------------------------------------------------- |
+| **AND**        | 7408 (Quad 2-input AND)  | Input validation circuits, digital comparators        |
+| **OR**         | 7432 (Quad 2-input OR)   | Alarm systems, control systems, logic decision making |
+| **NOT**        | 7404 (Hex Inverter)      | Signal inversion, waveform generation                 |
+| **NAND**       | 7400 (Quad 2-input NAND) | Logic building blocks, memory circuits, timers        |
+| **NOR**        | 7402 (Quad 2-input NOR)  | SR Latch, control circuits, pattern detection         |
+| **XOR**        | 7486 (Quad 2-input XOR)  | Adders, parity checkers, digital comparators          |
+| **XNOR**       | 74266 or 74LS266         | Equality checkers, digital logic comparators          |
+
+
 
 
