@@ -368,7 +368,7 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 **1.AND GATE - 7408 IC**
 
-![image](https://github.com/user-attachments/assets/c844323d-756e-45f9-97b4-c84b2a2ddb1c)
+![image](https://github.com/user-attachments/assets/d0ebdd2b-2c52-49b8-b8b2-c4a4f6433b16)
 
 ![image](https://github.com/user-attachments/assets/3b2a3ff7-335f-460c-9153-dd8157a9ceb3)
 
@@ -450,7 +450,7 @@ https://www.tinkercad.com/things/5ks4rsow4P2-or-gate-ic-7432
 
 **3.NOT GATE - 7404 IC**
 
-![image](https://github.com/user-attachments/assets/2f9e41ef-60be-4513-a4cd-615608ae6ffb)
+![image](https://github.com/user-attachments/assets/64917dd8-a04a-475d-9a0b-0eb7c535321d)
 
 ![image](https://github.com/user-attachments/assets/6dbca3b3-8d17-4b35-bdee-dd3accc3a4a9)
 
@@ -534,7 +534,9 @@ The 7400 IC is used in:
 
 **5.NOR GATE - 7402 IC**
 
-![image](https://github.com/user-attachments/assets/37ef15d9-f545-4f6e-b5d3-26a114ebdef9)
+![image](https://github.com/user-attachments/assets/735fa2be-d893-4d45-8135-007433b85917)
+
+![image](https://github.com/user-attachments/assets/8ab4fdd6-63fd-4a95-aca0-19821bd2518c)
 
 **Tinkercad Circuit: NOR GATE using IC 7402**
 
@@ -617,9 +619,9 @@ The 7486 IC is used for:
 
 **7.XNOR GATE - 74266 IC**
 
-![image](https://github.com/user-attachments/assets/8113d208-7e1c-417f-9106-e9bafc9c4a64)
-
 ![image](https://github.com/user-attachments/assets/29861909-1d58-4f74-8010-ffad7ac8209b)
+
+![image](https://github.com/user-attachments/assets/ca46a46e-b20b-46ac-b327-ea11ee43efa6)
 
 **Tinkercad Circuits:XNOR GATE using IC 74266**
 
