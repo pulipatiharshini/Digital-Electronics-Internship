@@ -688,7 +688,6 @@ https://www.tinkercad.com/things/4TEf68leyWs-or-using-nand
 
 ![image](https://github.com/user-attachments/assets/e79211b2-3ea4-4372-94da-d5d3fed9e2bd)
 
-https://www.tinkercad.com/things/1F18IugtV1e-glorious-bojo-jaiks
 
 
 
