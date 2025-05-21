@@ -372,7 +372,7 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 ![image](https://github.com/user-attachments/assets/3b2a3ff7-335f-460c-9153-dd8157a9ceb3)
 
-**Tickercad Circuit:AND GATE using IC 7408**
+**Tinkercad Circuit:AND GATE using IC 7408**
 
 https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408
 
@@ -413,6 +413,10 @@ The 7408 IC contains four 2-input AND gates. It’s used in:
 
 ![image](https://github.com/user-attachments/assets/9216fa49-fb7c-4795-a671-d44e4b6030a2)
 
+**Tinkercad Circuit:OR GATE using IC 7432**
+
+https://www.tinkercad.com/things/5ks4rsow4P2-or-gate-ic-7432
+
 | Pin Number | Pin Name                  | Function                                 |
 | ---------- | ------------------------- | ---------------------------------------- |
 | **1**      | **Input A (1st OR Gate)** | First input for the first OR gate.       |
@@ -445,6 +449,10 @@ The 7408 IC contains four 2-input AND gates. It’s used in:
 ![image](https://github.com/user-attachments/assets/2f9e41ef-60be-4513-a4cd-615608ae6ffb)
 
 ![image](https://github.com/user-attachments/assets/6dbca3b3-8d17-4b35-bdee-dd3accc3a4a9)
+
+**Tickercad Circuit:NOT GATE using IC 7404**
+
+https://www.tinkercad.com/things/hEjVv9kj5nc-not-gate-ic-7404
 
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | --------------------------------------- |
@@ -482,6 +490,10 @@ The 7404 Hex Inverter IC is used for:
 
 ![image](https://github.com/user-attachments/assets/b355ab93-7209-4eb4-8781-d53df7260473)
 
+**Tinkercad Circuit: NAND GATE using IC 7400**
+
+https://www.tinkercad.com/things/5fOCR436lhR-nand-gate-ic-7400
+
 | **Pin Number** | **Pin Name** | **Function**                                                                             |
 | -------------- | ------------ | ----------------------------------------------------------------------------------------------- |
 | 1              | A1           | Input pin for the first input of the first NAND gate (G1).                                      |
@@ -517,6 +529,10 @@ The 7400 IC is used in:
 ![image](https://github.com/user-attachments/assets/37ef15d9-f545-4f6e-b5d3-26a114ebdef9)
 
 ![image](https://github.com/user-attachments/assets/e0c6c236-c227-4e24-8ffc-b6f031a62d7d)
+
+**Tinkercad Circuit: NOR GATE using IC 7402**
+
+https://www.tinkercad.com/things/bBbvIe2XoFh-nor-gate-ic-7402
 
 | **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
@@ -554,6 +570,10 @@ The 7402 IC is used for:
 
 ![image](https://github.com/user-attachments/assets/0a085c32-654d-47a8-b00f-4b02ecca7500)
 
+**Tinkercad Circuit:XOR GATE using IC 7486**
+
+https://www.tinkercad.com/things/6pBX3T16bJr-xor-gate-ic-7486
+
 | **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
 | 1              | A1           | Input pin for the first input of the first XOR gate (G1).   |
@@ -590,6 +610,10 @@ The 7486 IC is used for:
 ![image](https://github.com/user-attachments/assets/8113d208-7e1c-417f-9106-e9bafc9c4a64)
 
 ![image](https://github.com/user-attachments/assets/29861909-1d58-4f74-8010-ffad7ac8209b)
+
+**Tinkercad Circuits:XNOR GATE using IC 74266**
+
+https://www.tinkercad.com/things/1emzC4qRiU8-xnor-gate-ic-74266
 
 | **Pin No.** | **Pin Name** | **Function**                  |
 | ----------- | ------------ | -------------------------------- |
