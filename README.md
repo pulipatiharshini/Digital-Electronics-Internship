@@ -500,7 +500,7 @@ The 7404 Hex Inverter IC is used for:
 
 https://www.tinkercad.com/things/5fOCR436lhR-nand-gate-ic-7400
 
-![image](https://github.com/user-attachments/assets/2aad1700-8e3f-4eb1-8be6-038f4225b951)
+
 
 | **Pin Number** | **Pin Name** | **Function**                                                                             |
 | -------------- | ------------ | ----------------------------------------------------------------------------------------------- |
