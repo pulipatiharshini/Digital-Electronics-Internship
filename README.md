@@ -647,7 +647,7 @@ https://www.tinkercad.com/things/1emzC4qRiU8-xnor-gate-ic-74266
 •Multiple Device Control.
 
 
-#Applications of IC's 
+**Applications of IC's**
 
 | **Logic Gate** | **Common IC Number**     | **Application Examples**                              |
 | -------------- | ------------------------ | ----------------------------------------------------- |
@@ -658,6 +658,12 @@ https://www.tinkercad.com/things/1emzC4qRiU8-xnor-gate-ic-74266
 | **NOR**        | 7402 (Quad 2-input NOR)  | SR Latch, control circuits, pattern detection         |
 | **XOR**        | 7486 (Quad 2-input XOR)  | Adders, parity checkers, digital comparators          |
 | **XNOR**       | 74266 or 74LS266         | Equality checkers, digital logic comparators          |
+
+
+**IMPLEMENTATION OF LOGIC GATES**
+
+**AND USING NAND**
+
 
 
 
