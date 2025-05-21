@@ -365,6 +365,18 @@ A tiny electronic device that combines multiple electronic components, such as t
 | XOR        | ⊕      | Output is HIGH if inputs are different               | A ⊕ B              | 7486                         |
 | XNOR       | =      | Output is HIGH if inputs are the same (NOT-XOR)      | ¬(A ⊕ B)           | 74266, 74LS266               |
 
+**Applications of IC's**
+
+| **Logic Gate** | **Common IC Number**     | **Application Examples**                              |
+| -------------- | ------------------------ | ----------------------------------------------------- |
+| **AND**        | 7408 (Quad 2-input AND)  | Input validation circuits, digital comparators        |
+| **OR**         | 7432 (Quad 2-input OR)   | Alarm systems, control systems, logic decision making |
+| **NOT**        | 7404 (Hex Inverter)      | Signal inversion, waveform generation                 |
+| **NAND**       | 7400 (Quad 2-input NAND) | Logic building blocks, memory circuits, timers        |
+| **NOR**        | 7402 (Quad 2-input NOR)  | SR Latch, control circuits, pattern detection         |
+| **XOR**        | 7486 (Quad 2-input XOR)  | Adders, parity checkers, digital comparators          |
+| **XNOR**       | 74266 or 74LS266         | Equality checkers, digital logic comparators          |
+
 
 **1.AND GATE - 7408 IC**
 
@@ -659,19 +671,6 @@ https://www.tinkercad.com/things/1emzC4qRiU8-xnor-gate-ic-74266
 •Interrupt Lines
 
 •Multiple Device Control.
-
-
-**Applications of IC's**
-
-| **Logic Gate** | **Common IC Number**     | **Application Examples**                              |
-| -------------- | ------------------------ | ----------------------------------------------------- |
-| **AND**        | 7408 (Quad 2-input AND)  | Input validation circuits, digital comparators        |
-| **OR**         | 7432 (Quad 2-input OR)   | Alarm systems, control systems, logic decision making |
-| **NOT**        | 7404 (Hex Inverter)      | Signal inversion, waveform generation                 |
-| **NAND**       | 7400 (Quad 2-input NAND) | Logic building blocks, memory circuits, timers        |
-| **NOR**        | 7402 (Quad 2-input NOR)  | SR Latch, control circuits, pattern detection         |
-| **XOR**        | 7486 (Quad 2-input XOR)  | Adders, parity checkers, digital comparators          |
-| **XNOR**       | 74266 or 74LS266         | Equality checkers, digital logic comparators          |
 
 
 **IMPLEMENTATION OF LOGIC GATES**
