@@ -686,7 +686,7 @@ https://www.tinkercad.com/things/9honMKm8l6i-and-using-nand
 
 https://www.tinkercad.com/things/4TEf68leyWs-or-using-nand
 
-![image](https://github.com/user-attachments/assets/e79211b2-3ea4-4372-94da-d5d3fed9e2bd)
+![image](https://github.com/user-attachments/assets/65fe2b97-e111-4e77-8e7d-3e7470276c3a)
 
 
 
