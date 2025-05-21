@@ -34,7 +34,7 @@ Communication Systems
 
 Control Systems
 
-Home Appliances
+Home Appliances.
 
 Smart Refrigerators
 
