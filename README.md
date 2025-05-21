@@ -536,7 +536,8 @@ The 7400 IC is used in:
 
 ![image](https://github.com/user-attachments/assets/37ef15d9-f545-4f6e-b5d3-26a114ebdef9)
 
-![image](https://github.com/user-attachments/assets/e0c6c236-c227-4e24-8ffc-b6f031a62d7d)
+![image](https://github.com/user-attachments/assets/f2776db2-f67a-45ff-8ae2-938033464c35)
+
 
 **Tinkercad Circuit: NOR GATE using IC 7402**
 
