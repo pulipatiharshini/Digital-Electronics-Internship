@@ -11,8 +11,6 @@
 - [Integrated Circuits-IC's](#integrated-circuits-ics)
   
 
-# Task 1
-
 # What is Digital Electronics
 
 Digital electronics is a branch of electronics that deals with systems and devices that use digital signals, which are discrete representations of data, 
@@ -193,7 +191,6 @@ Step 2: Binary → Octal Group 3 bits: 000 | 101 | 111 000 → 0 101 → 5 111 �
 
 Result → 057₈
 
-# Task 2
 
 # BASIC LOGIC GATES
 
