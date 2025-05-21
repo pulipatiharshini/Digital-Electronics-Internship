@@ -374,7 +374,7 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 **Tinkercad Circuit:AND GATE using IC 7408**
 
-https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408
+![image](https://github.com/user-attachments/assets/676fa23b-e09c-44a8-9e3d-b3019c543881)
 
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | ------------------------------------ |
@@ -415,7 +415,7 @@ The 7408 IC contains four 2-input AND gates. It’s used in:
 
 **Tinkercad Circuit:OR GATE using IC 7432**
 
-https://www.tinkercad.com/things/5ks4rsow4P2-or-gate-ic-7432
+![image](https://github.com/user-attachments/assets/297c4b3c-72d4-49ff-9698-a26eb44bcf8e)
 
 | Pin Number | Pin Name                  | Function                                 |
 | ---------- | ------------------------- | ---------------------------------------- |
@@ -452,7 +452,7 @@ https://www.tinkercad.com/things/5ks4rsow4P2-or-gate-ic-7432
 
 **Tickercad Circuit:NOT GATE using IC 7404**
 
-https://www.tinkercad.com/things/hEjVv9kj5nc-not-gate-ic-7404
+![image](https://github.com/user-attachments/assets/17635a7c-36e2-4942-94e5-fa36955a3171)
 
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | --------------------------------------- |
@@ -492,7 +492,7 @@ The 7404 Hex Inverter IC is used for:
 
 **Tinkercad Circuit: NAND GATE using IC 7400**
 
-https://www.tinkercad.com/things/5fOCR436lhR-nand-gate-ic-7400
+![image](https://github.com/user-attachments/assets/2aad1700-8e3f-4eb1-8be6-038f4225b951)
 
 | **Pin Number** | **Pin Name** | **Function**                                                                             |
 | -------------- | ------------ | ----------------------------------------------------------------------------------------------- |
@@ -532,7 +532,7 @@ The 7400 IC is used in:
 
 **Tinkercad Circuit: NOR GATE using IC 7402**
 
-https://www.tinkercad.com/things/bBbvIe2XoFh-nor-gate-ic-7402
+![image](https://github.com/user-attachments/assets/e9d51b74-9d92-4bf5-a4e6-1c46b3affaa6)
 
 | **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
@@ -572,7 +572,7 @@ The 7402 IC is used for:
 
 **Tinkercad Circuit:XOR GATE using IC 7486**
 
-https://www.tinkercad.com/things/6pBX3T16bJr-xor-gate-ic-7486
+![image](https://github.com/user-attachments/assets/470b5fb1-0cb0-4cdd-8a6c-8336a374778f)
 
 | **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
@@ -613,7 +613,7 @@ The 7486 IC is used for:
 
 **Tinkercad Circuits:XNOR GATE using IC 74266**
 
-https://www.tinkercad.com/things/1emzC4qRiU8-xnor-gate-ic-74266
+![image](https://github.com/user-attachments/assets/9b43fe3e-ef56-4352-b303-e8ad24395d17)
 
 | **Pin No.** | **Pin Name** | **Function**                  |
 | ----------- | ------------ | -------------------------------- |
@@ -663,6 +663,12 @@ https://www.tinkercad.com/things/1emzC4qRiU8-xnor-gate-ic-74266
 **IMPLEMENTATION OF LOGIC GATES**
 
 **AND USING NAND**
+
+![image](https://github.com/user-attachments/assets/46337248-f2af-4ede-8b5a-12fee2793b69)
+
+**OR USING NAND**
+
+![image](https://github.com/user-attachments/assets/e79211b2-3ea4-4372-94da-d5d3fed9e2bd)
 
 
 
