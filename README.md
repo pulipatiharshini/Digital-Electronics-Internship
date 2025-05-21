@@ -372,6 +372,10 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 ![image](https://github.com/user-attachments/assets/3b2a3ff7-335f-460c-9153-dd8157a9ceb3)
 
+**Tickercad Circuit:AND GATE using IC 7408**
+
+https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408
+
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | ------------------------------------ |
 | 1              | A1           | Input to the 1st AND gate (A)        |
