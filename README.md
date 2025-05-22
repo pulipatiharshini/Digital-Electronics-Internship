@@ -148,7 +148,7 @@ If the input is 0, the output is 1
 The NOT gate is usually represented by a triangle pointing to the right with a small circle (called a "bubble") at the output.
 
 **Truth Table:**
-|*Input (A)* |	*Output (¬A)*|
+|**Input (A)** |	*Output (¬A)*|
 |--------------|------------------|
 |0	|1|
 |1	|0|
@@ -161,7 +161,7 @@ This table shows that the NOT gate simply flips the input value.
 
 # 4.NAND GATE
 
-Definition:
+**Definition:**
 
 A NAND gate is a fundamental digital logic gate that outputs false (0) only when all its inputs are true (1); otherwise, it outputs true (1).
 
@@ -301,28 +301,22 @@ https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408
 
 **Description**
  
-The 7408 IC contains four 2-input AND gates. It’s used in:
-
-•Logic Circuits for basic AND operations.
-
-•Control Systems for conditions requiring multiple inputs.
-
-•Timing & Synchronization in clocked circuits.
-
-•Arithmetic for binary addition or multiplication.
+The 7408 IC contains four 2-input AND gates. It’s used in: Logic Circuits for basic AND operations. Control Systems for conditions requiring multiple inputs. Timing & Synchronization in clocked circuits.
+Arithmetic for binary addition or multiplication.
 
 
 **2.OR GATE - 7432 IC**
 
+<img src="https://github.com/user-attachments/assets/9216fa49-fb7c-4795-a671-d44e4b6030a2" width="400" />
+
 ![image](https://github.com/user-attachments/assets/f51060d3-9527-4c46-b48a-29dbd0ffdb54)
 
-![image](https://github.com/user-attachments/assets/9216fa49-fb7c-4795-a671-d44e4b6030a2)
+<img src="https://github.com/user-attachments/assets/297c4b3c-72d4-49ff-9698-a26eb44bcf8e" width="500">
+
 
 **Tinkercad Circuit:OR GATE using IC 7432**
 
 https://www.tinkercad.com/things/5ks4rsow4P2-or-gate-ic-7432
-
-![image](https://github.com/user-attachments/assets/297c4b3c-72d4-49ff-9698-a26eb44bcf8e)
 
 | Pin Number | Pin Name                  | Function                                 |
 | ---------- | ------------------------- | ---------------------------------------- |
