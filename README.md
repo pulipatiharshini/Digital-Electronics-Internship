@@ -18,31 +18,25 @@ typically using binary code (0s and 1s).
 
 Some key elements in digital electronics include:
 
-Logic Gates: Basic building blocks of digital circuits (AND, OR, NOT, XOR, etc.).
-
-Binary System: Using binary numbers (0 and 1) to represent data.
-
-Combinational Circuits: Circuits where the output depends only on the current inputs (e.g., adders, multiplexers).
-
-Digital electronics is fundamental to modern technology, including computing, communication, and control systems. It's used in everything from computers and mobile phones to appliances and automobiles.
+Logic Gates, Binary System, Combinational Circuits, Digital electronics is fundamental to modern technology, including computing, communication, and control system.
 
 # Applications of Digital Electronics
 
-Computing and Microprocessors
+1.Computing and Microprocessors
 
-Communication Systems
+2.Communication Systems
 
-Control Systems
+3.Control Systems
 
-Home Appliances.
+4.Home Appliances.
 
-Smart Refrigerators
+5.Smart Refrigerators
 
-Automotive 
+6.Automotive 
 
 # Digital vs Analog signals
 
-| **Analog** | **Digital** 
+| **Analog** | **Digital**|
 |------------|------------|
 |A continuous wave that represents data|A discrete signal that represents data in binary form (0s and 1s)|
 |Requires less bandwid from transmission| Request more bandwidth due to discrete data encoding|
@@ -71,126 +65,28 @@ In digital electronics, number systems are crucial for representing and manipula
 
 # Binary (Base 2), Decimal (Base 10), Hexadecimal (Base 16).
 
-1. Binary (Base 2)
-
-Digits: 0, 1
-
-Used in: All digital systems; the most fundamental system.
-
-Example: 1011 (binary) = 11 (decimal)
-
-2. Decimal (Base 10)
-
-Digits: 0 to 9
-
-Used in: Human-readable format; not commonly used internally in digital electronics.
-
-Example: 27 (decimal) = 11011 (binary)
-
-3. Hexadecimal (Base 16)
-
-Digits: 0–9 and A–F (where A=10 to F=15)
-
-Used in: Compact representation of binary values (4 bits = 1 hex digit).
-
-Example: 2F (hex) = 0010 1111 (binary) = 47 (decimal)
+| **System**      | **Base** | **Digits**                   | **Used In**                                                                 | **Example**                                  |
+| --------------- | -------- | ---------------------------- | --------------------------------------------------------------------------- | -------------------------------------------- |
+| **Binary**      | 2        | 0, 1                         | All digital systems; the most fundamental system.                           | 1011 (binary) = 11 (decimal)                 |
+| **Decimal**     | 10       | 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 | Human-readable format; not commonly used internally in digital electronics. | 27 (decimal) = 11011 (binary)                |
+| **Hexadecimal** | 16       | 0–9, A–F (A=10, F=15)        | Compact representation of binary values (4 bits = 1 hex digit).             | 2F (hex) = 0010 1111 (binary) = 47 (decimal) |
 
 # Conversion between number systems 
 
-**1. Binary → Decimal**
-
-Binary: 1011₂
-
-= (1×2³) + (0×2²) + (1×2¹) + (1×2⁰) = 8 + 0 + 2 + 1 = 11₁₀
-
-**2. Decimal → Binary**
-
-Decimal: 13₁₀
-
-13 ÷ 2 = 6 remainder 1 6 ÷ 2 = 3 remainder 0 3 ÷ 2 = 1 remainder 1 1 ÷ 2 = 0 remainder 1
-
-Read remainders bottom to top → 1101₂
-
-**3. Binary → Octal**
-
-Binary: 110110₂
-
-Group in 3 bits → 110 | 110 110₂ = 6₈ 110₂ = 6₈
-
-Result → 66₈
-
-**4. Octal → Binary**
-
-Octal: 57₈
-
-5₈ → 101₂ 7₈ → 111₂
-
-Result → 101111₂
-
-**5. Binary → Hexadecimal**
-
-Binary: 10101110₂
-
-Group in 4 bits → 1010 | 1110 1010₂ = A₁₆ 1110₂ = E₁₆
-
-Result → AE₁₆
-
-**6. Hexadecimal → Binary**
-
-Hex: 3F₁₆
-
-3₁₆ → 0011₂ F₁₆ → 1111₂
-
-Result → 00111111₂
-
-**7. Decimal → Octal**
-
-Decimal: 125₁₀
-
-125 ÷ 8 = 15 remainder 5 15 ÷ 8 = 1 remainder 7 1 ÷ 8 = 0 remainder 1
-
-Read remainders bottom to top → 175₈
-
-**8. Octal → Decimal**
-
-Octal: 745₈
-
-= (7×8²) + (4×8¹) + (5×8⁰) = (7×64) + (4×8) + (5×1) = 448 + 32 + 5 = 485₁₀
-
-**9. Decimal → Hexadecimal**
-
-Decimal: 254₁₀
-
-254 ÷ 16 = 15 remainder 14 (E) 15 ÷ 16 = 0 remainder 15 (F)
-
-Read remainders bottom to top → FE₁₆
-
-**10. Hexadecimal → Decimal**
-
-Hex: 2A₁₆
-
-= (2×16¹) + (A×16⁰) = (2×16) + (10×1) = 32 + 10 = 42₁₀
-
-**11. Octal → Hexadecimal**
-
-Octal: 745₈
-
-Step 1: Octal → Binary 7 → 111 4 → 100 5 → 101 Binary = 111100101₂
-
-Step 2: Binary → Hex Group 4 bits: 0011 | 1100 | 101 (pad left 0 → 0101) 0011 → 3 1100 → C 0101 → 5
-
-Result → 3C5₁₆
-
-**12. Hexadecimal → Octal**
-
-Hex: 2F₁₆
-
-Step 1: Hex → Binary 2 → 0010 F → 1111 Binary = 00101111₂
-
-Step 2: Binary → Octal Group 3 bits: 000 | 101 | 111 000 → 0 101 → 5 111 → 7
-
-Result → 057₈
-
+| **Conversion Type**       | **Explanation**                                                             | **Example**                                                                                                      |
+| ------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Binary → Decimal**      | Convert binary to decimal by summing the powers of 2.                       | $1011$ (binary) = $1 \times 2^3 + 0 \times 2^2 + 1 \times 2^1 + 1 \times 2^0 = 8 + 0 + 2 + 1 =$ **11 (decimal)** |
+| **Decimal → Binary**      | Divide decimal by 2, recording the remainders.                              | $27$ (decimal) = **11011 (binary)**                                                                              |
+| **Binary → Octal**        | Group binary in sets of 3 (from right) and convert each set to octal.       | $101101$ (binary) = $101 \, 101$ = **55 (octal)**                                                                |
+| **Octal → Binary**        | Convert each octal digit to its 3-bit binary equivalent.                    | $5$ (octal) = **101 (binary)**                                                                                   |
+| **Binary → Hexadecimal**  | Group binary in sets of 4 (from right) and convert each set to hexadecimal. | $101101$ (binary) = $1011 \, 0101$ = **2D (hexadecimal)**                                                        |
+| **Hexadecimal → Binary**  | Convert each hex digit to its 4-bit binary equivalent.                      | $2F$ (hex) = $0010 \, 1111$ = **00101111 (binary)**                                                              |
+| **Decimal → Octal**       | Divide decimal by 8 and record the remainders.                              | $27$ (decimal) = **33 (octal)**                                                                                  |
+| **Octal → Decimal**       | Multiply each octal digit by 8 raised to its position power and sum them.   | $33$ (octal) = $3 \times 8^1 + 3 \times 8^0 = 24 + 3 =$ **27 (decimal)**                                         |
+| **Decimal → Hexadecimal** | Divide decimal by 16 and record the remainders.                             | $47$ (decimal) = **2F (hexadecimal)**                                                                            |
+| **Hexadecimal → Decimal** | Multiply each hex digit by 16 raised to its position power and sum them.    | $2F$ (hex) = $2 \times 16^1 + 15 \times 16^0 = 32 + 15 =$ **47 (decimal)**                                       |
+| **Octal → Hexadecimal**   | Convert octal to binary, then binary to hexadecimal.                        | $55$ (octal) = $101 \, 101$ (binary) = **2D (hexadecimal)**                                                      |
+| **Hexadecimal → Octal**   | Convert hexadecimal to binary, then binary to octal.                        | $2F$ (hex) = $0010 \, 1111$ (binary) = **55 (octal)**                                                            |
 
 # BASIC LOGIC GATES
 
@@ -215,7 +111,7 @@ Output is true (1) only when both inputs are true (1).
 
 **Symbol:**
 
-![image](https://github.com/user-attachments/assets/cb7096d8-4fae-4a1e-a0ff-5204effddf5a)
+![image](https://github.com/user-attachments/assets/056f91e0-ddcf-4a94-bca3-4c89963965b4)
 
 # 2.OR Gate
 
@@ -237,7 +133,7 @@ If at least one input is 1, the output is 1.
 
 *Symbol*
 
-![image](https://github.com/user-attachments/assets/a93f89ba-5389-436e-aa8d-42604ea7bc62)
+![image](https://github.com/user-attachments/assets/bad49c2d-e96d-4de8-9839-4d7954054b33)
 
 # 3.NOT Gate
 
@@ -261,7 +157,7 @@ This table shows that the NOT gate simply flips the input value.
 
 **Symbol:**
 
-![image](https://github.com/user-attachments/assets/4631b202-0aab-47cd-96d1-8cefdcc79094)
+![image](https://github.com/user-attachments/assets/b1b4a9d2-90b9-47dd-b9af-9307ee2643d9)
 
 # 4.NAND GATE
 
@@ -280,8 +176,7 @@ A NAND gate is a fundamental digital logic gate that outputs false (0) only when
 
 **Symbol:**
 
-![image](https://github.com/user-attachments/assets/ab715794-ca3e-4cc3-b0e3-9ddf5699c003)
-
+![image](https://github.com/user-attachments/assets/8aaa79e8-12b8-4b9f-b6b9-79da1172183f)
 
 # 5.NOR GATE
 
@@ -301,8 +196,7 @@ It outputs *1* if all inputs are 0, else outputs 0.
 
 **Symbol:**
 
-![image](https://github.com/user-attachments/assets/c6c825aa-818a-4dab-a85a-3b7d0fe7acd0)
-
+![image](https://github.com/user-attachments/assets/bbf98f0b-3aa5-4759-91f9-8879a05f8c72)
 
 # 6.XOR GATE
 
@@ -322,7 +216,7 @@ Outputs 0 if the inputs are the same.
 
 **Symbol:** 
 
-![image](https://github.com/user-attachments/assets/f6bcbeed-6b5c-4962-90e2-d6790a4e9890)
+![image](https://github.com/user-attachments/assets/e1c27ec7-716c-4e90-982d-aa5d658ea7d4)
 
 # 7.XNOR GATE
 
@@ -342,7 +236,7 @@ It outputs 0 if the inputs are different.
 
 **Symbol** 
 
-![image](https://github.com/user-attachments/assets/377c4950-ab15-4d06-9218-266d993dbec0)
+![image](https://github.com/user-attachments/assets/4abed49e-d33a-4db8-b480-aeeed6a9493a)
 
 # Integrated Circuits-IC's
 
@@ -377,15 +271,15 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 **1.AND GATE - 7408 IC**
 
-![image](https://github.com/user-attachments/assets/d0ebdd2b-2c52-49b8-b8b2-c4a4f6433b16)
+<img src="https://github.com/user-attachments/assets/fefbe148-7b5f-4121-b694-ee580744b6bb" width="400">
 
-![image](https://github.com/user-attachments/assets/3b2a3ff7-335f-460c-9153-dd8157a9ceb3)
+![image](https://github.com/user-attachments/assets/335f63ee-4dbb-4444-8be7-bbbd344dc09a)
+
+<img src="https://github.com/user-attachments/assets/676fa23b-e09c-44a8-9e3d-b3019c543881" width="500" />
 
 **Tinkercad Circuit:AND GATE using IC 7408**
 
 https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408
-
-![image](https://github.com/user-attachments/assets/676fa23b-e09c-44a8-9e3d-b3019c543881)
 
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | ------------------------------------ |
