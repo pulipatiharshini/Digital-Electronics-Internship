@@ -131,7 +131,7 @@ If both inputs are 0, the output is 0.
 
 If at least one input is 1, the output is 1.
 
-*Symbol*
+**Symbol**
 
 ![image](https://github.com/user-attachments/assets/bad49c2d-e96d-4de8-9839-4d7954054b33)
 
@@ -275,7 +275,7 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 ![image](https://github.com/user-attachments/assets/335f63ee-4dbb-4444-8be7-bbbd344dc09a)
 
-<img src="https://github.com/user-attachments/assets/676fa23b-e09c-44a8-9e3d-b3019c543881" width="500" />
+![17479099584416851200226383637107](https://github.com/user-attachments/assets/116c7165-5a55-41bd-8780-e86343415200)
 
 **Tinkercad Circuit:AND GATE using IC 7408**
 
