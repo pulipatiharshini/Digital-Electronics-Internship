@@ -676,13 +676,11 @@ https://www.tinkercad.com/things/1emzC4qRiU8-xnor-gate-ic-74266
 
 https://www.tinkercad.com/things/9honMKm8l6i-and-using-nand
 
-![image](https://github.com/user-attachments/assets/46337248-f2af-4ede-8b5a-12fee2793b69)
+
 
 **OR USING NAND**
 
 https://www.tinkercad.com/things/4TEf68leyWs-or-using-nand
-
-![image](https://github.com/user-attachments/assets/65fe2b97-e111-4e77-8e7d-3e7470276c3a).
 
 
 
