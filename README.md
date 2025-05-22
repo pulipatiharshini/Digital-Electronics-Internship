@@ -279,7 +279,7 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 **Tinkercad Circuit:AND GATE using IC 7408**
 
-https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408
+[Tinkercad](https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408)
 
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | ------------------------------------ |
@@ -316,7 +316,7 @@ Arithmetic for binary addition or multiplication.
 
 **Tinkercad Circuit:OR GATE using IC 7432**
 
-https://www.tinkercad.com/things/5ks4rsow4P2-or-gate-ic-7432
+[Tinkercad](https://www.tinkercad.com/things/5ks4rsow4P2-or-gate-ic-7432)
 
 | Pin Number | Pin Name                  | Function                                 |
 | ---------- | ------------------------- | ---------------------------------------- |
@@ -337,25 +337,19 @@ https://www.tinkercad.com/things/5ks4rsow4P2-or-gate-ic-7432
 
 **Description**
 
-•Adders: Perform binary addition.
-
-•Control Systems: Trigger actions in alarms.
-
-•Signal Combination: Combine signals for output.
-
-•Memory: Store data in flip-flops.
+An OR gate IC is a digital electronic component that performs the logical OR operation. The OR gate is one of the basic building blocks in digital logic circuits. It has two or more input signals and produces a single output signal. The output of an OR gate is high (logic 1) if at least one of its inputs is high. If all inputs are low (logic 0), the output is also low.
 
 **3.NOT GATE - 7404 IC**
 
+<img src="https://github.com/user-attachments/assets/6dbca3b3-8d17-4b35-bdee-dd3accc3a4a9" width="400" />
+
 ![image](https://github.com/user-attachments/assets/64917dd8-a04a-475d-9a0b-0eb7c535321d)
 
-![image](https://github.com/user-attachments/assets/6dbca3b3-8d17-4b35-bdee-dd3accc3a4a9)
+<img src="https://github.com/user-attachments/assets/17635a7c-36e2-4942-94e5-fa36955a3171" width="500" />
 
 **Tickercad Circuit:NOT GATE using IC 7404**
 
-https://www.tinkercad.com/things/hEjVv9kj5nc-not-gate-ic-7404
-
-![image](https://github.com/user-attachments/assets/17635a7c-36e2-4942-94e5-fa36955a3171)
+[Tinkercad](https://www.tinkercad.com/things/hEjVv9kj5nc-not-gate-ic-7404)
 
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | --------------------------------------- |
@@ -377,27 +371,20 @@ https://www.tinkercad.com/things/hEjVv9kj5nc-not-gate-ic-7404
 
 **Description**
 
-The 7404 Hex Inverter IC is used for:
-
-•Signal Inversion: Inverts logic signals.
-
-•Logic Gates: Builds NAND, NOR, etc.
-
-•Oscillators: Generates clock signals.
-
-•Pulse Shaping: Cleans noisy signals.
+A NOT gate IC is a digital logic device that implements the inverter function. It is one of the basic building blocks of digital circuits. The NOT gate has only one input and one output, and its operation is based on logical negation. The NOT gate performs the function of inverting the input signal. If the input is logic 1 (high), the output will be logic 0 (low), and if the input is logic 0 (low), the output will be logic 1 (high). 
 
 **4.NAND GATE - 7400 IC**
 
+<img src="https://github.com/user-attachments/assets/b355ab93-7209-4eb4-8781-d53df7260473" width="400" />
+
 ![image](https://github.com/user-attachments/assets/718150c0-662f-49d0-9585-b9147ef3e8f4)
 
-![image](https://github.com/user-attachments/assets/b355ab93-7209-4eb4-8781-d53df7260473)
+<img src="https://github.com/user-attachments/assets/13040ba7-5f8d-442a-9cfc-370bca2ad5cd" width="500" />
+
 
 **Tinkercad Circuit: NAND GATE using IC 7400**
 
-https://www.tinkercad.com/things/5fOCR436lhR-nand-gate-ic-7400
-
-![image](https://github.com/user-attachments/assets/13040ba7-5f8d-442a-9cfc-370bca2ad5cd)
+[Tinkercad](https://www.tinkercad.com/things/5fOCR436lhR-nand-gate-ic-7400)
 
 | **Pin Number** | **Pin Name** | **Function**                                                                             |
 | -------------- | ------------ | ----------------------------------------------------------------------------------------------- |
@@ -418,28 +405,21 @@ https://www.tinkercad.com/things/5fOCR436lhR-nand-gate-ic-7400
 
 **Description**
 
-The 7400 IC is used in:
-
-•Logic Gates: Builds basic gates and complex circuits.
-
-•Flip-Flops: Creates SR, D, and JK flip-flops for memory.
-
-•Counters/Registers: Used in binary counters and shift registers.
-
-•Sequential Logic: Designs state machines and timers.
-
+A NAND gate IC is an integrated circuit that implements the NAND (Not AND) logic function, which is a fundamental building block in digital electronics. The NAND gate performs the opposite operation of an AND gate; it produces a low output only when all of its inputs are high, and outputs a high signal in all other cases. In theory, the NAND gate takes multiple input signals and outputs the inverse of their logical AND operation.
+For two inputs, the NAND gate’s output is high if at least one input is low, and only goes low when both inputs are high. 
 
 **5.NOR GATE - 7402 IC**
 
+<img src="https://github.com/user-attachments/assets/8ab4fdd6-63fd-4a95-aca0-19821bd2518c" width="400" />
+
 ![image](https://github.com/user-attachments/assets/735fa2be-d893-4d45-8135-007433b85917)
 
-![image](https://github.com/user-attachments/assets/8ab4fdd6-63fd-4a95-aca0-19821bd2518c)
+<img src="https://github.com/user-attachments/assets/e9d51b74-9d92-4bf5-a4e6-1c46b3affaa6" width="500" />
+
 
 **Tinkercad Circuit: NOR GATE using IC 7402**
 
-https://www.tinkercad.com/things/bBbvIe2XoFh-nor-gate-ic-7402
-
-![image](https://github.com/user-attachments/assets/e9d51b74-9d92-4bf5-a4e6-1c46b3affaa6)
+[Tinkercad](https://www.tinkercad.com/things/bBbvIe2XoFh-nor-gate-ic-7402)
 
 | **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
@@ -461,27 +441,22 @@ https://www.tinkercad.com/things/bBbvIe2XoFh-nor-gate-ic-7402
 
 **Description**
 
-The 7402 IC is used for:
-
-•Logic Circuits: Implements basic logic operations.
-
-•Memory Circuits: Forms flip-flops and memory elements.
-
-•Signal Inversion: Used for inverting signals in circuits.
-
-•Control Systems: Applied in sequential logic and control systems.
+A NOR gate IC is a digital logic integrated circuit that performs the NOR (Not OR) operation. The NOR gate is a combination of an OR gate followed by a NOT gate, meaning it inverts the result of the OR operation. It is one of the fundamental logic gates used in digital electronics.
+In theory, the NOR gate produces a high output only when all of its inputs are low. If any of the inputs is high, the output becomes low. This behavior makes the NOR gate a universal gate, meaning that any other logic gate can be constructed using only NOR gates.
 
 **6.XOR GATE - 7486 IC**
 
+<img src="https://github.com/user-attachments/assets/0a085c32-654d-47a8-b00f-4b02ecca7500" width="400" />
+
 ![image](https://github.com/user-attachments/assets/1193bfdc-87aa-4b7f-8483-150f51bb11d2)
 
-![image](https://github.com/user-attachments/assets/0a085c32-654d-47a8-b00f-4b02ecca7500)
+<img src="https://github.com/user-attachments/assets/470b5fb1-0cb0-4cdd-8a6c-8336a374778f" width="500" />
+
 
 **Tinkercad Circuit:XOR GATE using IC 7486**
 
-https://www.tinkercad.com/things/6pBX3T16bJr-xor-gate-ic-7486
+[Tinkercad](https://www.tinkercad.com/things/6pBX3T16bJr-xor-gate-ic-7486)
 
-![image](https://github.com/user-attachments/assets/470b5fb1-0cb0-4cdd-8a6c-8336a374778f)
 
 | **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
@@ -503,28 +478,21 @@ https://www.tinkercad.com/things/6pBX3T16bJr-xor-gate-ic-7486
 
 **Description**
 
-The 7486 IC is used for:
-
-•Binary Adders: In half and full adders.
-
-•Error Detection: Parity generators and checkers.
-
-•Data Comparison: In digital comparators.
-
-•Digital Signal Processing: For signal manipulation.
-
+The XOR gate, or Exclusive OR gate, is a fundamental digital logic gate that outputs a high signal only when the inputs are unequal. It performs the logical operation of exclusive disjunction, meaning it gives a true (logic 1) output only when the number of true inputs is odd.
+In its simplest form with two inputs, the XOR gate outputs a logic 1 only if one of the inputs is 1 and the other is 0. If both inputs are the same—either both 0 or both 1—the output is 0. 
 
 **7.XNOR GATE - 74266 IC**
 
+<img src="https://github.com/user-attachments/assets/ca46a46e-b20b-46ac-b327-ea11ee43efa6" width="400" />
+
 ![image](https://github.com/user-attachments/assets/29861909-1d58-4f74-8010-ffad7ac8209b)
 
-![image](https://github.com/user-attachments/assets/ca46a46e-b20b-46ac-b327-ea11ee43efa6)
+<img src="https://github.com/user-attachments/assets/9b43fe3e-ef56-4352-b303-e8ad24395d17" width="500" />
+
 
 **Tinkercad Circuits:XNOR GATE using IC 74266**
 
-https://www.tinkercad.com/things/1emzC4qRiU8-xnor-gate-ic-74266
-
-![image](https://github.com/user-attachments/assets/9b43fe3e-ef56-4352-b303-e8ad24395d17)
+[Tinkercad](https://www.tinkercad.com/things/1emzC4qRiU8-xnor-gate-ic-74266)
 
 | **Pin No.** | **Pin Name** | **Function**                  |
 | ----------- | ------------ | -------------------------------- |
@@ -545,33 +513,24 @@ https://www.tinkercad.com/things/1emzC4qRiU8-xnor-gate-ic-74266
 
 **Description**
 
-•The LS 74266 is used for:
-
-•Bus Systems (e.g., I²C)
-
-•Signal Level Shifting
-
-•Open-Drain Logic
-
-•Interrupt Lines
-
-•Multiple Device Control.
+An XNOR gate (Exclusive-NOR gate) is a digital logic gate that produces a high output (logic 1) when its inputs are equal. It is the complement of the XOR (Exclusive-OR) gate.
+The XNOR gate performs the logical equality operation. It compares two input signals and returns a true (high) output if both inputs are the same—either both 0 or both 1. If the inputs are different, the output is false (low).
 
 
 **IMPLEMENTATION OF LOGIC GATES**
 
 **AND USING NAND**
 
-https://www.tinkercad.com/things/9honMKm8l6i-and-using-nand
+[Tinkercad](https://www.tinkercad.com/things/9honMKm8l6i-and-using-nand)
 
-![image](https://github.com/user-attachments/assets/ea410c16-6c97-43f5-a446-139578248ae1)
-
+<img src="https://github.com/user-attachments/assets/ea410c16-6c97-43f5-a446-139578248ae1" width="500" />
 
 **OR USING NAND**
 
-https://www.tinkercad.com/things/4TEf68leyWs-or-using-nand
+[Tinkercad](https://www.tinkercad.com/things/4TEf68leyWs-or-using-nand)
 
-![image](https://github.com/user-attachments/assets/350abbdf-7cd0-4243-a918-c73ffaca6383)
+<img src="https://github.com/user-attachments/assets/350abbdf-7cd0-4243-a918-c73ffaca6383" width="500" />
+
 
 
 
