@@ -280,7 +280,7 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 **Tinkercad Circuit:AND GATE using IC 7408**
 
-[TinkerCAD](https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408)
+[Tinkercad](https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408)
 
 
 | **Pin Number** | **Pin Name** | **Function**                         |
@@ -317,7 +317,7 @@ Arithmetic for binary addition or multiplication.
 
 **Tinkercad Circuit:OR GATE using IC 7432**
 
-[TinkerCAD](https://www.tinkercad.com/things/2Oc23z71esd-or-gate-ic-7432)
+[Tinkercad](https://www.tinkercad.com/things/2Oc23z71esd-or-gate-ic-7432)
 
 
 | Pin Number | Pin Name                  | Function                                 |
@@ -351,7 +351,7 @@ An OR gate IC is a digital electronic component that performs the logical OR ope
 
 **Tickercad Circuit:NOT GATE using IC 7404**
 
-[TinkerCAD](https://www.tinkercad.com/things/jr1CT429oD6-not-gate-ic-7404)
+[Tinkercad](https://www.tinkercad.com/things/jr1CT429oD6-not-gate-ic-7404)
 
 
 | **Pin Number** | **Pin Name** | **Function**                         |
@@ -380,13 +380,13 @@ A NOT gate IC is a digital logic device that implements the inverter function. I
 
 <img src="https://github.com/user-attachments/assets/b355ab93-7209-4eb4-8781-d53df7260473" width="350" />
 
-![image](https://github.com/user-attachments/assets/718150c0-662f-49d0-9585-b9147ef3e8f4)
+![image](https://github.com/user-attachments/assets/bffb176c-8bd9-41af-a202-1c4a49fde811)
 
 <img src="https://github.com/user-attachments/assets/f2a7e74a-39ba-4267-9f70-9efcc173b14e" width="400" />
 
 **Tinkercad Circuit: NAND GATE using IC 7400**
 
-[TinkerCAD](https://www.tinkercad.com/things/iREb6SH4aop-nand-gate-ic-7400)
+[Tinkercad](https://www.tinkercad.com/things/iREb6SH4aop-nand-gate-ic-7400)
 
 
 | **Pin Number** | **Pin Name** | **Function**                                                                             |
@@ -409,7 +409,6 @@ A NOT gate IC is a digital logic device that implements the inverter function. I
 **Description**
 
 A NAND gate IC is an integrated circuit that implements the NAND (Not AND) logic function, which is a fundamental building block in digital electronics. The NAND gate performs the opposite operation of an AND gate; it produces a low output only when all of its inputs are high, and outputs a high signal in all other cases. In theory, the NAND gate takes multiple input signals and outputs the inverse of their logical AND operation.
-For two inputs, the NAND gate’s output is high if at least one input is low, and only goes low when both inputs are high. 
 
 **5.NOR GATE - 7402 IC**
 
@@ -421,7 +420,7 @@ For two inputs, the NAND gate’s output is high if at least one input is low, a
 
 **Tinkercad Circuit: NOR GATE using IC 7402**
 
-[TinkerCAD](https://www.tinkercad.com/things/eK8OsWxEUWg-nor-gate-ic-7402)
+[Tinkercad](https://www.tinkercad.com/things/eK8OsWxEUWg-nor-gate-ic-7402)
 
 
 | **Pin Number** | **Pin Name** | **Function**                                         |
@@ -457,7 +456,7 @@ In theory, the NOR gate produces a high output only when all of its inputs are l
 
 **Tinkercad Circuit:XOR GATE using IC 7486**
 
-[TinkerCAD](https://www.tinkercad.com/things/6pBX3T16bJr-xor-gate-ic-7486)
+[Tinkercad](https://www.tinkercad.com/things/6pBX3T16bJr-xor-gate-ic-7486)
 
 
 | **Pin Number** | **Pin Name** | **Function**                                         |
@@ -523,7 +522,7 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 **AND USING NAND**
 
-[TinkerCAD](https://www.tinkercad.com/things/9honMKm8l6i-and-using-nand)
+[Tinkercad](https://www.tinkercad.com/things/9honMKm8l6i-and-using-nand)
 
 <img src="https://github.com/user-attachments/assets/3863da6d-3a32-4063-836a-fa7b55a5ed04" width="400" />
 
@@ -535,25 +534,25 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 **NOT USING NAND**
 
-[TinkerCAD](https://www.tinkercad.com/things/alJbUbqD9En-not-using-nand)
+[Tinkercad](https://www.tinkercad.com/things/alJbUbqD9En-not-using-nand)
 
 <img src="https://github.com/user-attachments/assets/40335afb-22d3-4933-abe1-1e2673c45491" width="400" />
 
 **AND USING NOR**
 
-[TinkerCAD](https://www.tinkercad.com/things/640aOLXYdO9-and-using-nor-)
+[Tinkercad](https://www.tinkercad.com/things/640aOLXYdO9-and-using-nor-)
 
 <img src="https://github.com/user-attachments/assets/34abe037-bae7-4abd-9ea2-5a2002261ccf" width="400" />
 
 **NOT USING NOR**
 
-[TinkerCAD](https://www.tinkercad.com/things/acczd58xnGi-not-using-nor)
+[Tinkercad](https://www.tinkercad.com/things/acczd58xnGi-not-using-nor)
 
 <img src="https://github.com/user-attachments/assets/abcacfbf-febe-417c-b0ad-34a15865e7ef" width="400" />
 
 **OR USING NOR**
 
-[TinkerCAD](https://www.tinkercad.com/things/4VRQSxWR4VX-or-using-nor)
+[Tinkercad](https://www.tinkercad.com/things/4VRQSxWR4VX-or-using-nor)
 
 <img src="https://github.com/user-attachments/assets/71d5b9c5-d02f-4287-a7a6-14c92cbf801a" width="400" />
 
