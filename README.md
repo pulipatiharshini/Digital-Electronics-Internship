@@ -280,7 +280,7 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 **Tinkercad Circuit:AND GATE using IC 7408**
 
-Tinkercad](https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408)
+(https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408)
 
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | ------------------------------------ |
@@ -452,7 +452,7 @@ In theory, the NOR gate produces a high output only when all of its inputs are l
 
 **Tinkercad Circuit:XOR GATE using IC 7486**
 
-[Tinkercad](https://www.tinkercad.com/things/6pBX3T16bJr-xor-gate-ic-7486)
+(https://www.tinkercad.com/things/6pBX3T16bJr-xor-gate-ic-7486)
 
 
 | **Pin Number** | **Pin Name** | **Function**                                         |
