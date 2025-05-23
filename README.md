@@ -275,6 +275,8 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 ![image](https://github.com/user-attachments/assets/335f63ee-4dbb-4444-8be7-bbbd344dc09a)
 
+![image](https://github.com/user-attachments/assets/0f08012c-269a-46eb-a2dc-8af2bcc650f3)
+
 **Tinkercad Circuit:AND GATE using IC 7408**
 
 Tinkercad](https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408)
@@ -309,8 +311,7 @@ Arithmetic for binary addition or multiplication.
 
 ![image](https://github.com/user-attachments/assets/f51060d3-9527-4c46-b48a-29dbd0ffdb54)
 
-<img src="https://github.com/user-attachments/assets/297c4b3c-72d4-49ff-9698-a26eb44bcf8e" width="500">
-
+![image](https://github.com/user-attachments/assets/99de0dd5-2850-4146-b5bc-e2f982a891ea)
 
 **Tinkercad Circuit:OR GATE using IC 7432**
 
@@ -343,7 +344,7 @@ An OR gate IC is a digital electronic component that performs the logical OR ope
 
 ![image](https://github.com/user-attachments/assets/64917dd8-a04a-475d-9a0b-0eb7c535321d)
 
-<img src="https://github.com/user-attachments/assets/17635a7c-36e2-4942-94e5-fa36955a3171" width="500" />
+![image](https://github.com/user-attachments/assets/b4cf7dde-995f-42ef-be34-bc5426a92b0c)
 
 **Tickercad Circuit:NOT GATE using IC 7404**
 
@@ -377,8 +378,7 @@ A NOT gate IC is a digital logic device that implements the inverter function. I
 
 ![image](https://github.com/user-attachments/assets/718150c0-662f-49d0-9585-b9147ef3e8f4)
 
-<img src="https://github.com/user-attachments/assets/13040ba7-5f8d-442a-9cfc-370bca2ad5cd" width="500" />
-
+![image](https://github.com/user-attachments/assets/f2a7e74a-39ba-4267-9f70-9efcc173b14e)
 
 **Tinkercad Circuit: NAND GATE using IC 7400**
 
@@ -412,8 +412,7 @@ For two inputs, the NAND gate’s output is high if at least one input is low, a
 
 ![image](https://github.com/user-attachments/assets/735fa2be-d893-4d45-8135-007433b85917)
 
-<img src="https://github.com/user-attachments/assets/e9d51b74-9d92-4bf5-a4e6-1c46b3affaa6" width="500" />
-
+![image](https://github.com/user-attachments/assets/fb5b42e7-2067-46cb-867a-9d5b1e11372e)
 
 **Tinkercad Circuit: NOR GATE using IC 7402**
 
