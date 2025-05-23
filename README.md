@@ -275,7 +275,7 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 ![image](https://github.com/user-attachments/assets/335f63ee-4dbb-4444-8be7-bbbd344dc09a)
 
-![17479099584416851200226383637107](https://github.com/user-attachments/assets/116c7165-5a55-41bd-8780-e86343415200)
+https://www.tinkercad.com/things/gmvaZS65KuE-and-gate-ic-
 
 **Tinkercad Circuit:AND GATE using IC 7408**
 
