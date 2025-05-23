@@ -111,7 +111,7 @@ Output is true (1) only when both inputs are true (1).
 
 **Symbol:**
 
-![image](https://github.com/user-attachments/assets/056f91e0-ddcf-4a94-bca3-4c89963965b4)
+<img src="https://github.com/user-attachments/assets/056f91e0-ddcf-4a94-bca3-4c89963965b4" width="300" />
 
 # 2.OR Gate
 
@@ -133,7 +133,7 @@ If at least one input is 1, the output is 1.
 
 **Symbol**
 
-![image](https://github.com/user-attachments/assets/bad49c2d-e96d-4de8-9839-4d7954054b33)
+<img src="https://github.com/user-attachments/assets/bad49c2d-e96d-4de8-9839-4d7954054b33" width="300" />
 
 # 3.NOT Gate
 
@@ -157,7 +157,7 @@ This table shows that the NOT gate simply flips the input value.
 
 **Symbol:**
 
-![image](https://github.com/user-attachments/assets/b1b4a9d2-90b9-47dd-b9af-9307ee2643d9)
+<img src="https://github.com/user-attachments/assets/b1b4a9d2-90b9-47dd-b9af-9307ee2643d9" width="300" />
 
 # 4.NAND GATE
 
@@ -176,7 +176,7 @@ A NAND gate is a fundamental digital logic gate that outputs false (0) only when
 
 **Symbol:**
 
-![image](https://github.com/user-attachments/assets/8aaa79e8-12b8-4b9f-b6b9-79da1172183f)
+<img src="https://github.com/user-attachments/assets/8aaa79e8-12b8-4b9f-b6b9-79da1172183f" width="300" />
 
 # 5.NOR GATE
 
@@ -196,7 +196,7 @@ It outputs *1* if all inputs are 0, else outputs 0.
 
 **Symbol:**
 
-![image](https://github.com/user-attachments/assets/bbf98f0b-3aa5-4759-91f9-8879a05f8c72)
+<img src="https://github.com/user-attachments/assets/9805dcb4-97d2-48ba-912e-6cc9f5932daa" width="300" />
 
 # 6.XOR GATE
 
@@ -216,7 +216,7 @@ Outputs 0 if the inputs are the same.
 
 **Symbol:** 
 
-![image](https://github.com/user-attachments/assets/e1c27ec7-716c-4e90-982d-aa5d658ea7d4)
+<img src="https://github.com/user-attachments/assets/e1c27ec7-716c-4e90-982d-aa5d658ea7d4" width="300" />
 
 # 7.XNOR GATE
 
@@ -236,7 +236,7 @@ It outputs 0 if the inputs are different.
 
 **Symbol** 
 
-![image](https://github.com/user-attachments/assets/4abed49e-d33a-4db8-b480-aeeed6a9493a)
+<img src="https://github.com/user-attachments/assets/e1c27ec7-716c-4e90-982d-aa5d658ea7d4" width="300" />
 
 # Integrated Circuits-IC's
 
