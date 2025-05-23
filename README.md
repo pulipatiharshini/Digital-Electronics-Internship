@@ -523,28 +523,37 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 https://www.tinkercad.com/things/9honMKm8l6i-and-using-nand
 
-<img src="https://github.com/user-attachments/assets/ea410c16-6c97-43f5-a446-139578248ae1" width="500" />
+![image](https://github.com/user-attachments/assets/3863da6d-3a32-4063-836a-fa7b55a5ed04)
 
 **OR USING NAND**
 
 https://www.tinkercad.com/things/4TEf68leyWs-or-using-nand
 
-<img src="https://github.com/user-attachments/assets/350abbdf-7cd0-4243-a918-c73ffaca6383" width="500" />
+![image](https://github.com/user-attachments/assets/9ed481ee-4f38-400e-a90f-90a6d32eccc7)
 
 **NOT USING NAND**
 
 https://www.tinkercad.com/things/alJbUbqD9En-not-using-nand
 
+![image](https://github.com/user-attachments/assets/a6b7a155-a9aa-44f4-ad30-c72131ccf742)
+
 **AND USING NOR**
 
 https://www.tinkercad.com/things/640aOLXYdO9-and-using-nor-
+
+![image](https://github.com/user-attachments/assets/34abe037-bae7-4abd-9ea2-5a2002261ccf)
 
 **NOT USING NOR**
 
 https://www.tinkercad.com/things/acczd58xnGi-not-using-nor
 
+![image](https://github.com/user-attachments/assets/abcacfbf-febe-417c-b0ad-34a15865e7ef)
+
 **OR USING NOR**
 
 https://www.tinkercad.com/things/4VRQSxWR4VX-or-using-nor
+
+![image](https://github.com/user-attachments/assets/71d5b9c5-d02f-4287-a7a6-14c92cbf801a)
+
 
 
