@@ -545,7 +545,6 @@ https://www.tinkercad.com/things/acczd58xnGi-not-using-nor
 
 **OR USING NOR**
 
-
-
+https://www.tinkercad.com/things/4VRQSxWR4VX-or-using-nor
 
 
