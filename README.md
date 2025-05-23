@@ -216,7 +216,7 @@ Outputs 0 if the inputs are the same.
 
 **Symbol:** 
 
-<img src="https://github.com/user-attachments/assets/e1c27ec7-716c-4e90-982d-aa5d658ea7d4" width="300" />
+<img src="https://github.com/user-attachments/assets/8e657000-92e7-4d27-b17d-69acf030fd99" width="300" />
 
 # 7.XNOR GATE
 
@@ -236,7 +236,8 @@ It outputs 0 if the inputs are different.
 
 **Symbol** 
 
-<img src="https://github.com/user-attachments/assets/e1c27ec7-716c-4e90-982d-aa5d658ea7d4" width="300" />
+<img src="https://github.com/user-attachments/assets/66024712-e907-4684-8b96-588ce7f86d1b" width="300" />
+
 
 # Integrated Circuits-IC's
 
