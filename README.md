@@ -275,11 +275,9 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 ![image](https://github.com/user-attachments/assets/335f63ee-4dbb-4444-8be7-bbbd344dc09a)
 
-https://www.tinkercad.com/things/gmvaZS65KuE-and-gate-ic-
-
 **Tinkercad Circuit:AND GATE using IC 7408**
 
-[Tinkercad](https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408)
+Tinkercad](https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408)
 
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | ------------------------------------ |
@@ -316,7 +314,7 @@ Arithmetic for binary addition or multiplication.
 
 **Tinkercad Circuit:OR GATE using IC 7432**
 
-[Tinkercad](https://www.tinkercad.com/things/5ks4rsow4P2-or-gate-ic-7432)
+https://www.tinkercad.com/things/2Oc23z71esd-or-gate-ic-7432
 
 | Pin Number | Pin Name                  | Function                                 |
 | ---------- | ------------------------- | ---------------------------------------- |
@@ -349,7 +347,7 @@ An OR gate IC is a digital electronic component that performs the logical OR ope
 
 **Tickercad Circuit:NOT GATE using IC 7404**
 
-[Tinkercad](https://www.tinkercad.com/things/hEjVv9kj5nc-not-gate-ic-7404)
+https://www.tinkercad.com/things/jr1CT429oD6-not-gate-ic-7404
 
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | --------------------------------------- |
@@ -384,7 +382,7 @@ A NOT gate IC is a digital logic device that implements the inverter function. I
 
 **Tinkercad Circuit: NAND GATE using IC 7400**
 
-[Tinkercad](https://www.tinkercad.com/things/5fOCR436lhR-nand-gate-ic-7400)
+https://www.tinkercad.com/things/iREb6SH4aop-nand-gate-ic-7400
 
 | **Pin Number** | **Pin Name** | **Function**                                                                             |
 | -------------- | ------------ | ----------------------------------------------------------------------------------------------- |
@@ -419,7 +417,7 @@ For two inputs, the NAND gate’s output is high if at least one input is low, a
 
 **Tinkercad Circuit: NOR GATE using IC 7402**
 
-[Tinkercad](https://www.tinkercad.com/things/bBbvIe2XoFh-nor-gate-ic-7402)
+https://www.tinkercad.com/things/eK8OsWxEUWg-nor-gate-ic-7402
 
 | **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
