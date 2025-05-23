@@ -280,7 +280,8 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 **Tinkercad Circuit:AND GATE using IC 7408**
 
-(https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408)
+[TinkerCAD](https://www.tinkercad.com/things/aWRce276Cfu-and-gate-ic-7408)
+
 
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | ------------------------------------ |
@@ -316,7 +317,8 @@ Arithmetic for binary addition or multiplication.
 
 **Tinkercad Circuit:OR GATE using IC 7432**
 
-https://www.tinkercad.com/things/2Oc23z71esd-or-gate-ic-7432
+[TinkerCAD](https://www.tinkercad.com/things/2Oc23z71esd-or-gate-ic-7432)
+
 
 | Pin Number | Pin Name                  | Function                                 |
 | ---------- | ------------------------- | ---------------------------------------- |
@@ -349,7 +351,8 @@ An OR gate IC is a digital electronic component that performs the logical OR ope
 
 **Tickercad Circuit:NOT GATE using IC 7404**
 
-https://www.tinkercad.com/things/jr1CT429oD6-not-gate-ic-7404
+[TinkerCAD](https://www.tinkercad.com/things/jr1CT429oD6-not-gate-ic-7404)
+
 
 | **Pin Number** | **Pin Name** | **Function**                         |
 | -------------- | ------------ | --------------------------------------- |
@@ -383,7 +386,8 @@ A NOT gate IC is a digital logic device that implements the inverter function. I
 
 **Tinkercad Circuit: NAND GATE using IC 7400**
 
-https://www.tinkercad.com/things/iREb6SH4aop-nand-gate-ic-7400
+[TinkerCAD](https://www.tinkercad.com/things/iREb6SH4aop-nand-gate-ic-7400)
+
 
 | **Pin Number** | **Pin Name** | **Function**                                                                             |
 | -------------- | ------------ | ----------------------------------------------------------------------------------------------- |
@@ -417,7 +421,8 @@ For two inputs, the NAND gate’s output is high if at least one input is low, a
 
 **Tinkercad Circuit: NOR GATE using IC 7402**
 
-https://www.tinkercad.com/things/eK8OsWxEUWg-nor-gate-ic-7402
+[TinkerCAD](https://www.tinkercad.com/things/eK8OsWxEUWg-nor-gate-ic-7402)
+
 
 | **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
@@ -452,7 +457,7 @@ In theory, the NOR gate produces a high output only when all of its inputs are l
 
 **Tinkercad Circuit:XOR GATE using IC 7486**
 
-(https://www.tinkercad.com/things/6pBX3T16bJr-xor-gate-ic-7486)
+[TinkerCAD](https://www.tinkercad.com/things/6pBX3T16bJr-xor-gate-ic-7486)
 
 
 | **Pin Number** | **Pin Name** | **Function**                                         |
