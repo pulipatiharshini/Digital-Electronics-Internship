@@ -276,7 +276,7 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 ![image](https://github.com/user-attachments/assets/335f63ee-4dbb-4444-8be7-bbbd344dc09a)
 
-<img src="https://github.com/user-attachments/assets/0f08012c-269a-46eb-a2dc-8af2bcc650f3" width="400" />
+<img src="https://github.com/user-attachments/assets/8302e8d8-a4f0-4418-b386-fcd8efa606b6" width="400" />
 
 **Tinkercad Circuit:AND GATE using IC 7408**
 
@@ -313,7 +313,7 @@ Arithmetic for binary addition or multiplication.
 
 ![image](https://github.com/user-attachments/assets/f51060d3-9527-4c46-b48a-29dbd0ffdb54)
 
-<img src="https://github.com/user-attachments/assets/99de0dd5-2850-4146-b5bc-e2f982a891ea" width="400" />
+<img src="https://github.com/user-attachments/assets/9b1029a7-2ca4-4b5b-86f2-ba06776a5858" width="400" />
 
 **Tinkercad Circuit:OR GATE using IC 7432**
 
@@ -347,7 +347,7 @@ An OR gate IC is a digital electronic component that performs the logical OR ope
 
 ![image](https://github.com/user-attachments/assets/64917dd8-a04a-475d-9a0b-0eb7c535321d)
 
-<img src="https://github.com/user-attachments/assets/b4cf7dde-995f-42ef-be34-bc5426a92b0c" width="400" />
+<img src="https://github.com/user-attachments/assets/ed7948c8-6c7f-46ae-bb31-d54ccfbf0377" width="400" />
 
 **Tickercad Circuit:NOT GATE using IC 7404**
 
@@ -382,7 +382,7 @@ A NOT gate IC is a digital logic device that implements the inverter function. I
 
 ![image](https://github.com/user-attachments/assets/bffb176c-8bd9-41af-a202-1c4a49fde811)
 
-<img src="https://github.com/user-attachments/assets/f2a7e74a-39ba-4267-9f70-9efcc173b14e" width="400" />
+<img src="https://github.com/user-attachments/assets/61fadbb6-cb7a-40ef-b032-8c7435516de2" width="400" />
 
 **Tinkercad Circuit: NAND GATE using IC 7400**
 
@@ -416,7 +416,8 @@ A NAND gate IC is an integrated circuit that implements the NAND (Not AND) logic
 
 ![image](https://github.com/user-attachments/assets/735fa2be-d893-4d45-8135-007433b85917)
 
-<img src="https://github.com/user-attachments/assets/fb5b42e7-2067-46cb-867a-9d5b1e11372e" width="400" />
+<img src="https://github.com/user-attachments/assets/274fed1a-1d9c-4cea-98d5-6ce78d11aefb" width="400" />
+
 
 **Tinkercad Circuit: NOR GATE using IC 7402**
 
@@ -448,16 +449,15 @@ In theory, the NOR gate produces a high output only when all of its inputs are l
 
 **6.XOR GATE - 7486 IC**
 
-<img src="https://github.com/user-attachments/assets/0a085c32-654d-47a8-b00f-4b02ecca7500" width="350" />
+<img src="https://github.com/user-attachments/assets/d440c1c9-9855-4e51-ac84-4901b3afef64" width="350" />
 
 ![image](https://github.com/user-attachments/assets/1193bfdc-87aa-4b7f-8483-150f51bb11d2)
 
-<img src="https://github.com/user-attachments/assets/470b5fb1-0cb0-4cdd-8a6c-8336a374778f" width="400" />
+<img src="https://github.com/user-attachments/assets/e3697fbf-f47b-43df-ae3c-2979e3142f7e" width="400" />
 
 **Tinkercad Circuit:XOR GATE using IC 7486**
 
-[Tinkercad](https://www.tinkercad.com/things/6pBX3T16bJr-xor-gate-ic-7486)
-
+[Tinkercad](https://www.tinkercad.com/things/1emzC4qRiU8-xnor-gate-ic-74266)
 
 | **Pin Number** | **Pin Name** | **Function**                                         |
 | -------------- | ------------ | ----------------------------------------------------------- |
@@ -488,8 +488,7 @@ In its simplest form with two inputs, the XOR gate outputs a logic 1 only if one
 
 ![image](https://github.com/user-attachments/assets/29861909-1d58-4f74-8010-ffad7ac8209b)
 
-<img src="https://github.com/user-attachments/assets/9b43fe3e-ef56-4352-b303-e8ad24395d17" width="400" />
-
+<img src="https://github.com/user-attachments/assets/361d0060-ce12-4a1b-b862-b6a7a5de973f" width="400" />
 
 **Tinkercad Circuits:XNOR GATE using IC 74266**
 
@@ -524,37 +523,37 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 [Tinkercad](https://www.tinkercad.com/things/9honMKm8l6i-and-using-nand)
 
-<img src="https://github.com/user-attachments/assets/3863da6d-3a32-4063-836a-fa7b55a5ed04" width="400" />
+<img src="https://github.com/user-attachments/assets/061c2f0b-c20e-44b0-b6f9-aaaf907491d0" width="400" />
 
 **OR USING NAND**
 
 [TinkerCAD](https://www.tinkercad.com/things/4TEf68leyWs-or-using-nand)
 
-<img src="https://github.com/user-attachments/assets/9ed481ee-4f38-400e-a90f-90a6d32eccc7" width="400" />
+<img src="https://github.com/user-attachments/assets/ec2972e5-ce1b-4f99-9d3c-e3a42b212954" width="400" />
 
 **NOT USING NAND**
 
 [Tinkercad](https://www.tinkercad.com/things/alJbUbqD9En-not-using-nand)
 
-<img src="https://github.com/user-attachments/assets/40335afb-22d3-4933-abe1-1e2673c45491" width="400" />
+<img src="https://github.com/user-attachments/assets/e221ce9c-aacf-49b0-8204-20b87f13a874" width="400" />
 
 **AND USING NOR**
 
 [Tinkercad](https://www.tinkercad.com/things/640aOLXYdO9-and-using-nor-)
 
-<img src="https://github.com/user-attachments/assets/34abe037-bae7-4abd-9ea2-5a2002261ccf" width="400" />
+<img src="https://github.com/user-attachments/assets/5f70a34c-ba7e-444f-a8d4-1b689306a4af" width="400" />
 
 **NOT USING NOR**
 
 [Tinkercad](https://www.tinkercad.com/things/acczd58xnGi-not-using-nor)
 
-<img src="https://github.com/user-attachments/assets/abcacfbf-febe-417c-b0ad-34a15865e7ef" width="400" />
+<img src="https://github.com/user-attachments/assets/29d6025c-22e0-43dc-a048-4b379028dbe5" width="400"/>
 
 **OR USING NOR**
 
 [Tinkercad](https://www.tinkercad.com/things/4VRQSxWR4VX-or-using-nor)
 
-<img src="https://github.com/user-attachments/assets/71d5b9c5-d02f-4287-a7a6-14c92cbf801a" width="400" />
+<img src="https://github.com/user-attachments/assets/572dbfe6-f3cf-41e7-adb2-1fd08cf9c002" width="400" />
 
 
 
