@@ -486,7 +486,7 @@ In its simplest form with two inputs, the XOR gate outputs a logic 1 only if one
 
 <img src="https://github.com/user-attachments/assets/ca46a46e-b20b-46ac-b327-ea11ee43efa6" width="350" />
 
-![image](https://github.com/user-attachments/assets/29861909-1d58-4f74-8010-ffad7ac8209b)
+![image](https://github.com/user-attachments/assets/c533af69-992f-4347-856e-4472f776fab0)
 
 <img src="https://github.com/user-attachments/assets/361d0060-ce12-4a1b-b862-b6a7a5de973f" width="400" />
 
