@@ -272,11 +272,11 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 **1.AND GATE - 7408 IC**
 
-<img src="https://github.com/user-attachments/assets/fefbe148-7b5f-4121-b694-ee580744b6bb" width="400">
+<img src="https://github.com/user-attachments/assets/fefbe148-7b5f-4121-b694-ee580744b6bb" width="350">
 
 ![image](https://github.com/user-attachments/assets/335f63ee-4dbb-4444-8be7-bbbd344dc09a)
 
-![image](https://github.com/user-attachments/assets/0f08012c-269a-46eb-a2dc-8af2bcc650f3)
+<img src="https://github.com/user-attachments/assets/0f08012c-269a-46eb-a2dc-8af2bcc650f3" width="400" />
 
 **Tinkercad Circuit:AND GATE using IC 7408**
 
@@ -308,11 +308,11 @@ Arithmetic for binary addition or multiplication.
 
 **2.OR GATE - 7432 IC**
 
-<img src="https://github.com/user-attachments/assets/9216fa49-fb7c-4795-a671-d44e4b6030a2" width="400" />
+<img src="https://github.com/user-attachments/assets/9216fa49-fb7c-4795-a671-d44e4b6030a2" width="350" />
 
 ![image](https://github.com/user-attachments/assets/f51060d3-9527-4c46-b48a-29dbd0ffdb54)
 
-![image](https://github.com/user-attachments/assets/99de0dd5-2850-4146-b5bc-e2f982a891ea)
+<img src="https://github.com/user-attachments/assets/99de0dd5-2850-4146-b5bc-e2f982a891ea" width="400" />
 
 **Tinkercad Circuit:OR GATE using IC 7432**
 
@@ -341,11 +341,11 @@ An OR gate IC is a digital electronic component that performs the logical OR ope
 
 **3.NOT GATE - 7404 IC**
 
-<img src="https://github.com/user-attachments/assets/6dbca3b3-8d17-4b35-bdee-dd3accc3a4a9" width="400" />
+<img src="https://github.com/user-attachments/assets/6dbca3b3-8d17-4b35-bdee-dd3accc3a4a9" width="350" />
 
 ![image](https://github.com/user-attachments/assets/64917dd8-a04a-475d-9a0b-0eb7c535321d)
 
-![image](https://github.com/user-attachments/assets/b4cf7dde-995f-42ef-be34-bc5426a92b0c)
+<img src="https://github.com/user-attachments/assets/b4cf7dde-995f-42ef-be34-bc5426a92b0c" width="400" />
 
 **Tickercad Circuit:NOT GATE using IC 7404**
 
@@ -375,11 +375,11 @@ A NOT gate IC is a digital logic device that implements the inverter function. I
 
 **4.NAND GATE - 7400 IC**
 
-<img src="https://github.com/user-attachments/assets/b355ab93-7209-4eb4-8781-d53df7260473" width="400" />
+<img src="https://github.com/user-attachments/assets/b355ab93-7209-4eb4-8781-d53df7260473" width="350" />
 
 ![image](https://github.com/user-attachments/assets/718150c0-662f-49d0-9585-b9147ef3e8f4)
 
-![image](https://github.com/user-attachments/assets/f2a7e74a-39ba-4267-9f70-9efcc173b14e)
+<img src="https://github.com/user-attachments/assets/f2a7e74a-39ba-4267-9f70-9efcc173b14e" width="400" />
 
 **Tinkercad Circuit: NAND GATE using IC 7400**
 
@@ -409,11 +409,11 @@ For two inputs, the NAND gate’s output is high if at least one input is low, a
 
 **5.NOR GATE - 7402 IC**
 
-<img src="https://github.com/user-attachments/assets/8ab4fdd6-63fd-4a95-aca0-19821bd2518c" width="400" />
+<img src="https://github.com/user-attachments/assets/6b2eac61-21c1-4f70-b073-137ba249e327" width="350" />
 
 ![image](https://github.com/user-attachments/assets/735fa2be-d893-4d45-8135-007433b85917)
 
-![image](https://github.com/user-attachments/assets/fb5b42e7-2067-46cb-867a-9d5b1e11372e)
+<img src="https://github.com/user-attachments/assets/fb5b42e7-2067-46cb-867a-9d5b1e11372e" width="400" />
 
 **Tinkercad Circuit: NOR GATE using IC 7402**
 
@@ -444,12 +444,11 @@ In theory, the NOR gate produces a high output only when all of its inputs are l
 
 **6.XOR GATE - 7486 IC**
 
-<img src="https://github.com/user-attachments/assets/0a085c32-654d-47a8-b00f-4b02ecca7500" width="400" />
+<img src="https://github.com/user-attachments/assets/0a085c32-654d-47a8-b00f-4b02ecca7500" width="350" />
 
 ![image](https://github.com/user-attachments/assets/1193bfdc-87aa-4b7f-8483-150f51bb11d2)
 
-<img src="https://github.com/user-attachments/assets/470b5fb1-0cb0-4cdd-8a6c-8336a374778f" width="500" />
-
+<img src="https://github.com/user-attachments/assets/470b5fb1-0cb0-4cdd-8a6c-8336a374778f" width="400" />
 
 **Tinkercad Circuit:XOR GATE using IC 7486**
 
@@ -481,11 +480,11 @@ In its simplest form with two inputs, the XOR gate outputs a logic 1 only if one
 
 **7.XNOR GATE - 74266 IC**
 
-<img src="https://github.com/user-attachments/assets/ca46a46e-b20b-46ac-b327-ea11ee43efa6" width="400" />
+<img src="https://github.com/user-attachments/assets/ca46a46e-b20b-46ac-b327-ea11ee43efa6" width="350" />
 
 ![image](https://github.com/user-attachments/assets/29861909-1d58-4f74-8010-ffad7ac8209b)
 
-<img src="https://github.com/user-attachments/assets/9b43fe3e-ef56-4352-b303-e8ad24395d17" width="500" />
+<img src="https://github.com/user-attachments/assets/9b43fe3e-ef56-4352-b303-e8ad24395d17" width="400" />
 
 
 **Tinkercad Circuits:XNOR GATE using IC 74266**
