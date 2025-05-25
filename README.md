@@ -9,7 +9,7 @@
 - [Conversion between Number Systems](#conversion-between-number-systems)
 - [Basic Logic Gates](#basic-logic-gates)
 - [Integrated Circuits-IC's](#integrated-circuits-ics)
-  
+- [IMPLEMENTATION OF HALF ADDER](#implementation-of-half-adder)
 
 # What is Digital Electronics
 
@@ -555,7 +555,7 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 [Tinkercad](https://www.tinkercad.com/things/4VRQSxWR4VX-or-using-nor)
 
-# Implementation of Half Adder 
+# IMPLEMENTATION OF HALF ADDER 
 
 # Block Diagram
 
