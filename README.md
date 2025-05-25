@@ -521,39 +521,40 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 **AND USING NAND**
 
-[Tinkercad](https://www.tinkercad.com/things/9honMKm8l6i-and-using-nand)
+<img src="https://github.com/user-attachments/assets/6571468f-6178-4812-8b9d-509d7ea34363" width="400" alt="image">
 
-<img src="https://github.com/user-attachments/assets/061c2f0b-c20e-44b0-b6f9-aaaf907491d0" width="400" />
+[Tinkercad](https://www.tinkercad.com/things/9honMKm8l6i-and-using-nand)
 
 **OR USING NAND**
 
-[TinkerCAD](https://www.tinkercad.com/things/4TEf68leyWs-or-using-nand)
-
 <img src="https://github.com/user-attachments/assets/ec2972e5-ce1b-4f99-9d3c-e3a42b212954" width="400" />
+
+[TinkerCAD](https://www.tinkercad.com/things/4TEf68leyWs-or-using-nand)
 
 **NOT USING NAND**
 
-https://www.tinkercad.com/things/alJbUbqD9En-not-using-nand
-
 <img src="https://github.com/user-attachments/assets/6e6cde5b-dc84-4e1d-adfd-6e0a1981fefd" width="400" alt="image">
+
+https://www.tinkercad.com/things/alJbUbqD9En-not-using-nand
 
 **AND USING NOR**
 
-[Tinkercad](https://www.tinkercad.com/things/640aOLXYdO9-and-using-nor-)
+<img src="https://github.com/user-attachments/assets/c8238692-d826-4c4e-8cfb-04726e1a1c04" width="400" alt="image">
 
-<img src="https://github.com/user-attachments/assets/5f70a34c-ba7e-444f-a8d4-1b689306a4af" width="400" />
+[Tinkercad](https://www.tinkercad.com/things/640aOLXYdO9-and-using-nor-)
 
 **NOT USING NOR**
 
-[Tinkercad](https://www.tinkercad.com/things/acczd58xnGi-not-using-nor)
-
 <img src="https://github.com/user-attachments/assets/29d6025c-22e0-43dc-a048-4b379028dbe5" width="400"/>
+
+[Tinkercad](https://www.tinkercad.com/things/acczd58xnGi-not-using-nor)
 
 **OR USING NOR**
 
+<img src="https://github.com/user-attachments/assets/572dbfe6-f3cf-41e7-adb2-1fd08cf9c002" width="400" />.
+
 [Tinkercad](https://www.tinkercad.com/things/4VRQSxWR4VX-or-using-nor)
 
-<img src="https://github.com/user-attachments/assets/572dbfe6-f3cf-41e7-adb2-1fd08cf9c002" width="400" />.
 
 
 
