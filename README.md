@@ -559,9 +559,9 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 # Block Diagram
 
-<img src="https://github.com/user-attachments/assets/a421eea0-112b-4fb6-8118-bdd6a91804cc" width="400">
+![image](https://github.com/user-attachments/assets/eac5524e-eaef-48e1-9b83-4d4282acab8c)
 
-<img src="https://github.com/user-attachments/assets/04a08201-a2a5-4dca-aef5-7cfd3436c991" width="500"/>
+<img src="https://github.com/user-attachments/assets/04a08201-a2a5-4dca-aef5-7cfd3436c991" width="400"/>
 
 [Tinkercad](https://www.tinkercad.com/things/gef6OSGGmVn-half-adder-)
 
