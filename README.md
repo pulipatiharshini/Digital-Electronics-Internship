@@ -553,7 +553,7 @@ https://www.tinkercad.com/things/alJbUbqD9En-not-using-nand
 
 [Tinkercad](https://www.tinkercad.com/things/4VRQSxWR4VX-or-using-nor)
 
-<img src="https://github.com/user-attachments/assets/572dbfe6-f3cf-41e7-adb2-1fd08cf9c002" width="400" />
+<img src="https://github.com/user-attachments/assets/572dbfe6-f3cf-41e7-adb2-1fd08cf9c002" width="400" />.
 
 
 
