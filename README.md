@@ -562,7 +562,7 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 ![image](https://github.com/user-attachments/assets/a421eea0-112b-4fb6-8118-bdd6a91804cc)
 
-**Half adder using 7400 IC -- pin -to-pin connection table**
+# Half adder using 7400 IC -- pin -to-pin connection table
 
 | **Step** | **Description**                                | **Gate No.** | **Inputs (Pins)**           | **Output (Pin)** | **Logic Operation**        | **Purpose**                 |
 | -------- | ---------------------------------------------- | ------------ | --------------------------- | ---------------- | -------------------------- | --------------------------- |
