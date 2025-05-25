@@ -347,7 +347,7 @@ An OR gate IC is a digital electronic component that performs the logical OR ope
 
 ![image](https://github.com/user-attachments/assets/64917dd8-a04a-475d-9a0b-0eb7c535321d)
 
-<img src="https://github.com/user-attachments/assets/ed7948c8-6c7f-46ae-bb31-d54ccfbf0377" width="400" />
+<img src="https://github.com/user-attachments/assets/66d1845b-755c-49ba-bcba-b4a8ed427ac2" width="400" alt="image">
 
 **Tickercad Circuit:NOT GATE using IC 7404**
 
