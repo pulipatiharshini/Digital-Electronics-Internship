@@ -562,6 +562,10 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 ![image](https://github.com/user-attachments/assets/a421eea0-112b-4fb6-8118-bdd6a91804cc)
 
+<img src="https://github.com/user-attachments/assets/04a08201-a2a5-4dca-aef5-7cfd3436c991" width="400"/>
+
+[Tinkercad](https://www.tinkercad.com/things/gef6OSGGmVn-half-adder-)
+
 # Half adder using 7400 IC -- pin -to-pin connection table
 
 | **Step** | **Description**                                | **Gate No.** | **Inputs (Pins)**           | **Output (Pin)** | **Logic Operation**        | **Purpose**                 |
@@ -577,11 +581,20 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 | 9        | Connect GND to both ICs                        | —            | Pin 7                       | —                | Ground                     | Power return                |
 | 10       | Collect outputs: SUM from Pin 11, CARRY from 9 | —            | SUM = Pin 11, CARRY = Pin 9 | —                | SUM = A ⊕ B, CARRY = A · B | Final output of half adder  |
 
-**Outputs**
+**Outputs:**
 
-•Sum → Pin 11
+• Sum → Pin 11
 
-•Carry → Pin 3 of second 7400 IC (NAND5 output)
+• Carry → Pin 3 of second 7400 IC (NAND5 output)
+
+Half Adder Truth table 
+| A | B | SUM (A ⊕ B) | CARRY (A · B) |
+| - | - | ----------- | ------------- |
+| 0 | 0 | 0           | 0             |
+| 0 | 1 | 1           | 0             |
+| 1 | 0 | 1           | 0             |
+| 1 | 1 | 0           | 1             |
+
 
 
 
