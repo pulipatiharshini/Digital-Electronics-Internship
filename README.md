@@ -533,9 +533,9 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 **NOT USING NAND**
 
-[Tinkercad](https://www.tinkercad.com/things/alJbUbqD9En-not-using-nand)
+https://www.tinkercad.com/things/alJbUbqD9En-not-using-nand
 
-<img src="https://github.com/user-attachments/assets/e221ce9c-aacf-49b0-8204-20b87f13a874" width="400" />
+
 
 **AND USING NOR**
 
