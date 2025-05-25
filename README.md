@@ -559,7 +559,26 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 # Block Diagram
 
+
 ![image](https://github.com/user-attachments/assets/a421eea0-112b-4fb6-8118-bdd6a91804cc)
+
+**Half adder using 7400 IC -- pin -to-pin connection table**
+
+| **Step** | **Description**                                | **Gate No.** | **Inputs (Pins)**           | **Output (Pin)** | **Logic Operation**        | **Purpose**                 |
+| -------- | ---------------------------------------------- | ------------ | --------------------------- | ---------------- | -------------------------- | --------------------------- |
+| 1        | Connect input A to Gate 1 input                | NAND 1       | A → Pin 1                   | —                | —                          | Start of logic              |
+| 2        | Connect input B to Gate 1 input                | NAND 1       | B → Pin 2                   | —                | —                          | Start of logic              |
+| 3        | Generate A NAND B                              | NAND 1       | Pins 1, 2 → Output Pin 3    | X1               | A NAND B                   | Used for both SUM and CARRY |
+| 4        | Connect A and X1 to Gate 2                     | NAND 2       | A → Pin 4, X1 → Pin 5       | Pin 6            | A NAND (A NAND B)          | First XOR stage for SUM     |
+| 5        | Connect B and X1 to Gate 3                     | NAND 3       | B → Pin 9, X1 → Pin 10      | Pin 8            | B NAND (A NAND B)          | Second XOR stage for SUM    |
+| 6        | Connect outputs of Gate 2 and Gate 3 to Gate 4 | NAND 4       | X2 → Pin 12, X3 → Pin 13    | Pin 11           | (A ⊕ B) using NANDs        | Final SUM output            |
+| 7        | Connect X1 to both inputs of Gate 5            | NAND 5       | X1 → Pin 3 (twice)          | Pin 9 (IC2)      | (A NAND B) NAND (A NAND B) | Final CARRY output          |
+| 8        | Connect Vcc to both ICs                        | —            | Pin 14                      | —                | +5V                        | Power supply                |
+| 9        | Connect GND to both ICs                        | —            | Pin 7                       | —                | Ground                     | Power return                |
+| 10       | Collect outputs: SUM from Pin 11, CARRY from 9 | —            | SUM = Pin 11, CARRY = Pin 9 | —                | SUM = A ⊕ B, CARRY = A · B | Final output of half adder  |
+
+**Outputs**
+
 
 
 
