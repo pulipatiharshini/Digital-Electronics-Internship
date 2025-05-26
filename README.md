@@ -10,7 +10,7 @@
 - [Basic Logic Gates](#basic-logic-gates)
 - [Integrated Circuits-IC's](#integrated-circuits-ics)
 - [Implementation Of Half Adder](#implementation-of-half-adder)
-
+- [Implementation Of Full Adder](#implementation-of-full-adder)
 # What is Digital Electronics
 
 Digital electronics is a branch of electronics that deals with systems and devices that use digital signals, which are discrete representations of data, 
@@ -598,7 +598,7 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 **Block Diadram**
 
-![image](https://github.com/user-attachments/assets/d46f9c2b-a15a-4a18-910d-5ff8fab58e6b)
+<img src="https://github.com/user-attachments/assets/d46f9c2b-a15a-4a18-910d-5ff8fab58e6b" width="300" />
 
 **Full adder using 7402 IC - pin - to - pin connection table**
 
