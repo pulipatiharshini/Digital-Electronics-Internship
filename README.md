@@ -9,7 +9,7 @@
 - [Conversion between Number Systems](#conversion-between-number-systems)
 - [Basic Logic Gates](#basic-logic-gates)
 - [Integrated Circuits-IC's](#integrated-circuits-ics)
-- [IMPLEMENTATION OF HALF ADDER](#implementation-of-half-adder)
+- [Implementation Of Half Adder](#implementation-of-half-adder)
 
 # What is Digital Electronics
 
