@@ -602,6 +602,25 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 **Full adder using 7402 IC - pin - to - pin connection table**
 
+| Step | Logic Function         | Operation Description                           | IC\:Gate (Pins)       | Purpose / Output        |
+| ---- | ---------------------- | ----------------------------------------------- | --------------------- | ----------------------- |
+| 1    | A NOR A                | Invert A                                        | IC1\:G1 (1, 2 → 3)    | ¬A                      |
+| 2    | B NOR B                | Invert B                                        | IC1\:G2 (4, 5 → 6)    | ¬B                      |
+| 3    | A NOR B                | NOR of A and B                                  | IC1\:G3 (10, 9 → 8)   | A NOR B                 |
+| 4    | ¬A NOR ¬B              | OR of A and B (via NOR logic)                   | IC1\:G4 (13, 12 → 11) | A OR B                  |
+| 5    | (A OR B) NOR (A NOR B) | A XOR B                                         | IC2\:G1 (1, 2 → 3)    | A ⊕ B                   |
+| 6    | (A ⊕ B) NOR (A ⊕ B)    | Invert A XOR B                                  | IC2\:G2 (4, 5 → 6)    | ¬(A ⊕ B)                |
+| 7    | Cin NOR Cin            | Invert Cin                                      | IC2\:G3 (10, 9 → 8)   | ¬Cin                    |
+| 8    | ¬(A⊕B) NOR ¬Cin        | (A⊕B) OR Cin (via NOR logic)                    | IC2\:G4 (13, 12 → 11) | Intermediate sum output |
+| 9    | Cin NOR (A ⊕ B)        | NOR for sum path                                | IC3\:G1 (1, 2 → 3)    | Intermediate sum path   |
+| 10   | Combine step 8 & 9     | Final Sum = (¬(A⊕B) NOR ¬Cin) NOR (Cin NOR A⊕B) | IC3\:G2 (4, 5 → 6)    | **Sum Output**          |
+
+Inputs: A, B, Cin (Carry-in)
+
+Outputs: Sum, Cout (Carry-out)
+
+**Full Adder Truth Table**
+
 | A | B | Cin | Sum | Cout |
 | - | - | --- | --- | ---- |
 | 0 | 0 | 0   | 0   | 0    |
@@ -613,6 +632,3 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 | 1 | 1 | 0   | 0   | 1    |
 | 1 | 1 | 1   | 1   | 1    |
 
-Inputs: A, B, Cin (Carry-in)
-
-Outputs: Sum, Cout (Carry-out)
