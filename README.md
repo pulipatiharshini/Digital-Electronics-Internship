@@ -601,6 +601,10 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 <img src="https://github.com/user-attachments/assets/d46f9c2b-a15a-4a18-910d-5ff8fab58e6b" width="300" />
 
+<img src="https://github.com/user-attachments/assets/16124fb2-f18a-41f2-bc00-80de7edf30b6" width="500">
+
+[Tinkercad](https://www.tinkercad.com/things/cYXeJ5RYtjc-mighty-fyyran)
+
 **Full adder using 7402 IC - pin - to - pin connection table**
 
 | Step | Logic Function         | Operation Description                           | IC\:Gate (Pins)       | Purpose / Output        |
