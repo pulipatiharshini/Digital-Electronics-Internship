@@ -585,8 +585,9 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 • Sum → Pin 11
 
 • Carry → Pin 3 of second 7400 IC (NAND5 output)
+ 
+**Half Adder Truth table** 
 
-• Half Adder Truth table 
 | A | B | SUM (A ⊕ B) | CARRY (A · B) |
 | - | - | ----------- | ------------- |
 | 0 | 0 | 0           | 0             |
@@ -615,9 +616,9 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 | 9    | Cin NOR (A ⊕ B)        | NOR for sum path                                | IC3\:G1 (1, 2 → 3)    | Intermediate sum path   |
 | 10   | Combine step 8 & 9     | Final Sum = (¬(A⊕B) NOR ¬Cin) NOR (Cin NOR A⊕B) | IC3\:G2 (4, 5 → 6)    | **Sum Output**          |
 
-Inputs: A, B, Cin (Carry-in)
+• Inputs: A, B, Cin (Carry-in)
 
-Outputs: Sum, Cout (Carry-out)
+• Outputs: Sum, Cout (Carry-out)
 
 **Full Adder Truth Table**
 
