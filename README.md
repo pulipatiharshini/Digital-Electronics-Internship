@@ -565,7 +565,7 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 [Tinkercad](https://www.tinkercad.com/things/gef6OSGGmVn-half-adder-)
 
-# Half adder using 7400 IC - pin -to-pin connection table
+# Half adder using 7400 IC - pin - to - pin connection table
 
 | **Step** | **Description**                                | **Gate No.** | **Inputs (Pins)**           | **Output (Pin)** | **Logic Operation**        | **Purpose**                 |
 | -------- | ---------------------------------------------- | ------------ | --------------------------- | ---------------- | -------------------------- | --------------------------- |
@@ -594,8 +594,25 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 | 1 | 0 | 1           | 0             |
 | 1 | 1 | 0           | 1             |
 
+# IMPLEMENTATION OF FULL ADDER 
 
-# IMPLEMENTATION OF FULL ADDER
+**Block Diadram**
 
-# Block Diagram 
+![image](https://github.com/user-attachments/assets/d46f9c2b-a15a-4a18-910d-5ff8fab58e6b)
 
+**Full adder using 7402 IC - pin - to - pin connection table**
+
+| A | B | Cin | Sum | Cout |
+| - | - | --- | --- | ---- |
+| 0 | 0 | 0   | 0   | 0    |
+| 0 | 0 | 1   | 1   | 0    |
+| 0 | 1 | 0   | 1   | 0    |
+| 0 | 1 | 1   | 0   | 1    |
+| 1 | 0 | 0   | 1   | 0    |
+| 1 | 0 | 1   | 0   | 1    |
+| 1 | 1 | 0   | 0   | 1    |
+| 1 | 1 | 1   | 1   | 1    |
+
+Inputs: A, B, Cin (Carry-in)
+
+Outputs: Sum, Cout (Carry-out)
