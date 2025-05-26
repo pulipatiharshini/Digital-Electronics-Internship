@@ -595,5 +595,7 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 | 1 | 1 | 0           | 1             |
 
 
+# IMPLEMENTATION OF FULL ADDER
 
+# Block Diagram 
 
