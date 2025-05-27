@@ -643,7 +643,7 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 **Block Diagram**
 
-![image](https://github.com/user-attachments/assets/54ae1792-e290-42e6-bccc-9f6e09690f3f)
+<img src="https://github.com/user-attachments/assets/54ae1792-e290-42e6-bccc-9f6e09690f3f" width="400" />
 
 ![image](https://github.com/user-attachments/assets/f5475ac5-8c49-4515-a3d7-daa315aa43a4)
 
