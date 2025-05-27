@@ -599,9 +599,9 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 **Block Diadram**
 
-<img src="https://github.com/user-attachments/assets/d46f9c2b-a15a-4a18-910d-5ff8fab58e6b" width="600" />
+![17483151912018441819276758751335](https://github.com/user-attachments/assets/4e5bec3c-a41e-4b56-b20c-ee78b2c11257)
 
-<img src="https://github.com/user-attachments/assets/16124fb2-f18a-41f2-bc00-80de7edf30b6" width="600">
+<img src="https://github.com/user-attachments/assets/809760f8-21ad-4e9a-b373-cdbdae06f6ad" width="600" />
 
 [Tinkercad](https://www.tinkercad.com/things/cYXeJ5RYtjc-mighty-fyyran)
 
