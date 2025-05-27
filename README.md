@@ -674,6 +674,16 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 **Truth Table**
 
+| **SL (Select Line)** | **IN1** | **IN2** | **OUT** |
+| -------------------- | ------- | ------- | ------- |
+| 0                    | 0       | 0       | 0       |
+| 0                    | 0       | 1       | 0       |
+| 0                    | 1       | 0       | 1       |
+| 0                    | 1       | 1       | 1       |
+| 1                    | 0       | 0       | 0       |
+| 1                    | 0       | 1       | 1       |
+| 1                    | 1       | 0       | 0       |
+| 1                    | 1       | 1       | 1       |
 
 
 
