@@ -637,3 +637,19 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 | 1 | 1 | 0   | 0   | 1    |
 | 1 | 1 | 1   | 1   | 1    |
 
+# MULTIPLEXERS
+
+**1.2*1 Multiplexers**
+
+**Block Diagram**
+
+![image](https://github.com/user-attachments/assets/54ae1792-e290-42e6-bccc-9f6e09690f3f)
+
+![image](https://github.com/user-attachments/assets/f5475ac5-8c49-4515-a3d7-daa315aa43a4)
+
+https://www.tinkercad.com/things/baOg8k7AzFK-2-in-1-multiplexer
+
+
+
+
+
