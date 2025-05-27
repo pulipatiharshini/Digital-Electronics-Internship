@@ -649,6 +649,41 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 <a href="https://www.tinkercad.com/things/baOg8k7AzFK-2-in-1-multiplexer">Tinkercad</a>
 
+**2*1 Multiplexer using 7404 7408 7432 ic pin configuration**
+
+| Signal        | Function                  | IC Used | IC Pin No           | Description                 |
+| ------------- | ------------------------- | ------- | ------------------- | --------------------------- |
+| A             | Data input 1              | 7408    | Pin 1               | AND Gate 1, input A         |
+| NOT S         | Inverted Select Line      | 7404    | Pin 1 (in), 2 (out) | Output used in AND Gate 1   |
+| NOT S → AND   | Select line to AND Gate 1 | 7408    | Pin 2               | AND Gate 1, input B (NOT S) |
+| B             | Data input 2              | 7408    | Pin 4               | AND Gate 2, input A         |
+| S             | Select Line               | 7408    | Pin 5               | AND Gate 2, input B         |
+| AND1 OUT      | A AND NOT S               | 7408    | Pin 3               | Output of AND Gate 1        |
+| AND2 OUT      | B AND S                   | 7408    | Pin 6               | Output of AND Gate 2        |
+| AND1 OUT → OR | Connect to OR Gate Input  | 7432    | Pin 1               | OR Gate 1, input A          |
+| AND2 OUT → OR | Connect to OR Gate Input  | 7432    | Pin 2               | OR Gate 1, input B          |
+| Y (Output)    | Final MUX Output          | 7432    | Pin 3               | Output of OR Gate           |
+| Vcc           | +5V Power Supply          | All     | Pin 14              | Power pin of each IC        |
+| GND           | Ground                    | All     | Pin 7               | Ground pin of each IC       |
+
+Inputs: A, B (Data), S (Select)
+
+Output: Y
+
+**Truth Table**
+
+|Select (S)|	Input A|	Input B|	Output Y|
+|0|0|0|0|
+|0|0|1|0|
+|0|1|0|1|
+|0|1|1|0|
+|1|0|0|0|
+|1|0|1|1|
+|1|1|0|1|
+|1|1|1|1|
+
+
+
 
 
 
