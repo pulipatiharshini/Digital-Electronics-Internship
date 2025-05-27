@@ -666,9 +666,9 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 | Vcc           | +5V Power Supply          | All     | Pin 14              | Power pin of each IC        |
 | GND           | Ground                    | All     | Pin 7               | Ground pin of each IC       |
 
-Inputs: A, B (Data), S (Select)
+• Inputs: A, B (Data), S (Select)
 
-Output: Y
+• Output: Y
 
 **Truth Table**
 
