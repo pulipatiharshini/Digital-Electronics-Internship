@@ -645,7 +645,7 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 <img src="https://github.com/user-attachments/assets/54ae1792-e290-42e6-bccc-9f6e09690f3f" width="500" />
 
-![image](https://github.com/user-attachments/assets/f5475ac5-8c49-4515-a3d7-daa315aa43a4)
+![image](https://github.com/user-attachments/assets/00fb3447-c25d-4030-a225-7009a02750e2)
 
 <a href="https://www.tinkercad.com/things/baOg8k7AzFK-2-in-1-multiplexer">Tinkercad</a>
 
@@ -672,15 +672,6 @@ Output: Y
 
 **Truth Table**
 
-| Select (S) |	Input A |	Input B |	Output Y |
-| 0 |0 |0 |0 |
-| 0 |0 |1 |0 |
-| 0 |1 |0 |1 |
-| 0 |1 |1 |0 |
-|1 |0 |0 |0 |
-|1 |0 |1 |1 | 
-|1 |1 |0 |1 |
-|1 |1  |1 |1|
 
 
 
