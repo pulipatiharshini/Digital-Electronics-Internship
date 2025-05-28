@@ -645,6 +645,24 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 A 2-to-1 multiplexer (2:1 MUX) is a simple digital switch that selects one of two input signals and forwards the selected input to a single output line. It’s commonly used in digital circuits to control the flow of data based on a control signal.
 
+• The multiplexer acts like a digital switch.
+
+• It uses a control (select) signal to determine which input is passed to the output.
+
+• If the select line is 0, the first input is selected.
+
+• If the select line is 1, the second input is selected.
+
+**Applications:**
+
+• Data routing in digital circuits
+
+• Switching between signals
+
+• Implementing logic functions
+
+• Used in CPUs, communication systems, and control systems
+
 **Block Diagram**
 
 <img src="https://github.com/user-attachments/assets/54ae1792-e290-42e6-bccc-9f6e09690f3f" width="500" />
