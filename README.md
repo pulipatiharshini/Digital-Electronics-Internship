@@ -641,7 +641,7 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 # MULTIPLEXERS
 
-**1. 2X1 Multiplexers**
+**1. 2x1 Multiplexers**
 
 **Block Diagram**
 
@@ -651,7 +651,7 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 <a href="https://www.tinkercad.com/things/baOg8k7AzFK-2-in-1-multiplexer">Tinkercad</a>
 
-**2X1 Multiplexer using 7404,7408,7432 ic pin configuration**
+**2x1 Multiplexer using 7404,7408,7432 ic pin configuration**
 
 | Signal        | Function                  | IC Used | IC Pin No           | Description                 |
 | ------------- | ------------------------- | ------- | ------------------- | --------------------------- |
