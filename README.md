@@ -653,43 +653,7 @@ A 2-to-1 multiplexer (2:1 MUX) is a simple digital switch that selects one of tw
 
 • If the select line is 1, the second input is selected.
 
-**Logical Representation:**
 
-The behavior of a 2:1 MUX can be described using the following logic:
-
-𝑌
-=
-(
-𝐼
-0
-⋅
-𝑆
-‾
-)
-+
-(
-𝐼
-1
-⋅
-𝑆
-)
-Y=(I 
-0
-
- ⋅ 
-S
- )+(I 
-1
-
- ⋅S)
-Here:
-
-𝑆
-‾
-S
-  is the NOT of the select line
-
-The circuit uses AND, OR, and NOT gates to implement this function
 
 **Applications:**
 
