@@ -696,8 +696,8 @@ A 2-to-1 multiplexer (2:1 MUX) is a simple digital switch that selects one of tw
 
 **Truth Table**
 
-| **SL (Select Line)** | **IN1** | **IN2** | **OUT** |
-| -------------------- | ------- | ------- | ------- |
+| **Select** | **Input A** | **Input B** | **Output Y** |
+| -------------------- | ------- | ------- | ---------- |
 | 0                    | 0       | 0       | 0       |
 | 0                    | 0       | 1       | 0       |
 | 0                    | 1       | 0       | 1       |
