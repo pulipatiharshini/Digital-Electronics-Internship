@@ -11,7 +11,7 @@
 - [Integrated Circuits-IC's](#integrated-circuits-ics)
 - [Implementation Of Half Adder](#implementation-of-half-adder)
 - [Implementation Of Full Adder](#implementation-of-full-adder)
-- [Multiplexers](https://github.com/your-username/Multiplexers)
+- [Multiplexers](#Multiplexers)
 - [2x1-Multiplexers](#2x1-multiplexer)
   
 # What is Digital Electronics
@@ -522,37 +522,37 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 **IMPLEMENTATION OF LOGIC GATES**
 
-**AND USING NAND**
+# AND GATE USING NAND GATE
 
 <img src="https://github.com/user-attachments/assets/6571468f-6178-4812-8b9d-509d7ea34363" width="400" alt="image">
 
 [Tinkercad](https://www.tinkercad.com/things/9honMKm8l6i-and-using-nand)
 
-**OR USING NAND**
+# OR GATE USING NAND GATE
 
 <img src="https://github.com/user-attachments/assets/ec2972e5-ce1b-4f99-9d3c-e3a42b212954" width="400" />
 
 [TinkerCAD](https://www.tinkercad.com/things/4TEf68leyWs-or-using-nand)
 
-**NOT USING NAND**
+# NOT GATE USING NAND GATE
 
 <img src="https://github.com/user-attachments/assets/6e6cde5b-dc84-4e1d-adfd-6e0a1981fefd" width="400" alt="image">
 
 [Tinkercad](https://www.tinkercad.com/things/alJbUbqD9En-not-using-nand)
 
-**AND USING NOR**
+# AND GATE USING NOR GATE
 
 <img src="https://github.com/user-attachments/assets/c8238692-d826-4c4e-8cfb-04726e1a1c04" width="400" alt="image">
 
 [Tinkercad](https://www.tinkercad.com/things/640aOLXYdO9-and-using-nor-)
 
-**NOT USING NOR**
+# NOT GATE USING NOR GATE
 
 <img src="https://github.com/user-attachments/assets/29d6025c-22e0-43dc-a048-4b379028dbe5" width="400"/>
 
 [Tinkercad](https://www.tinkercad.com/things/acczd58xnGi-not-using-nor)
 
-**OR USING NOR**
+# OR GATE USING NOR GATE
 
 <img src="https://github.com/user-attachments/assets/572dbfe6-f3cf-41e7-adb2-1fd08cf9c002" width="400" />.
 
@@ -560,15 +560,15 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 # IMPLEMENTATION OF HALF ADDER 
 
-# Block Diagram
+**Block Diagram**
 
 ![image](https://github.com/user-attachments/assets/eac5524e-eaef-48e1-9b83-4d4282acab8c)
 
-<img src="https://github.com/user-attachments/assets/e8ea43cd-9833-4688-918f-f66af2c02825" width="150"/>
+<img src="https://github.com/user-attachments/assets/e8ea43cd-9833-4688-918f-f66af2c02825" width="600"/>
 
 [Tinkercad](https://www.tinkercad.com/things/gef6OSGGmVn-half-adder-)
 
-# Half adder using 7400 IC - pin - to - pin connection table
+**Half adder using 7400 IC - pin - to - pin connection table**
 
 | **Step** | **Description**                                | **Gate No.** | **Inputs (Pins)**           | **Output (Pin)** | **Logic Operation**        | **Purpose**                 |
 | -------- | ---------------------------------------------- | ------------ | --------------------------- | ---------------- | -------------------------- | --------------------------- |
