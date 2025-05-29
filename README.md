@@ -12,7 +12,8 @@
 - [Implementation Of Half Adder](#implementation-of-half-adder)
 - [Implementation Of Full Adder](#implementation-of-full-adder)
 - [Multiplexers](#Multiplexers)
-- [2x1-Multiplexers](#2x1-multiplexer)
+- [2x1 Multiplexers](#2x1-multiplexers)
+- [4x1 Multiplexers](#4x1-multiplexers)
   
 # What is Digital Electronics
 
@@ -350,7 +351,7 @@ An OR gate IC is a digital electronic component that performs the logical OR ope
 
 ![image](https://github.com/user-attachments/assets/64917dd8-a04a-475d-9a0b-0eb7c535321d)
 
-<img src="https://github.com/user-attachments/assets/66d1845b-755c-49ba-bcba-b4a8ed427ac2" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/631e39fa-8819-4f30-97dc-344d8cc3248a" width="400" />
 
 **Tickercad Circuit:NOT GATE using IC 7404**
 
