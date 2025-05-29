@@ -11,7 +11,7 @@
 - [Integrated Circuits-IC's](#integrated-circuits-ics)
 - [Implementation Of Half Adder](#implementation-of-half-adder)
 - [Implementation Of Full Adder](#implementation-of-full-adder)
-- [2x1 Multiplexers](#2x1 multiplexers)
+- [Multiplexers](#multiplexers)
   
 # What is Digital Electronics
 
