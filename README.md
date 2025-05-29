@@ -11,7 +11,7 @@
 - [Integrated Circuits-IC's](#integrated-circuits-ics)
 - [Implementation Of Half Adder](#implementation-of-half-adder)
 - [Implementation Of Full Adder](#implementation-of-full-adder)
-- [Multiplexers](#multiplexers)
+- [Multiplexers](https://github.com/your-username/Multiplexers)
 - [2x1-Multiplexers](#2x1-multiplexer)
   
 # What is Digital Electronics
@@ -564,7 +564,7 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 ![image](https://github.com/user-attachments/assets/eac5524e-eaef-48e1-9b83-4d4282acab8c)
 
-<img src="https://github.com/user-attachments/assets/04a08201-a2a5-4dca-aef5-7cfd3436c991" width="600"/>
+<img src="https://github.com/user-attachments/assets/e8ea43cd-9833-4688-918f-f66af2c02825" width="150"/>
 
 [Tinkercad](https://www.tinkercad.com/things/gef6OSGGmVn-half-adder-)
 
@@ -602,9 +602,9 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 **Block Diadram**
 
-![17483151912018441819276758751335](https://github.com/user-attachments/assets/4e5bec3c-a41e-4b56-b20c-ee78b2c11257)
+![image](https://github.com/user-attachments/assets/13db4714-74e0-4a46-8c18-afac2b96f365)
 
-<img src="https://github.com/user-attachments/assets/16124fb2-f18a-41f2-bc00-80de7edf30b6" width="600">
+<img src="https://github.com/user-attachments/assets/f5da2641-49f5-474d-b5fb-cb766894a895" width="600"/>
 
 [Tinkercad](https://www.tinkercad.com/things/cYXeJ5RYtjc-mighty-fyyran)
 
@@ -621,7 +621,7 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 | 7    | Cin NOR Cin            | Invert Cin                                      | IC2\:G3 (10, 9 → 8)   | ¬Cin                    |
 | 8    | ¬(A⊕B) NOR ¬Cin        | (A⊕B) OR Cin (via NOR logic)                    | IC2\:G4 (13, 12 → 11) | Intermediate sum output |
 | 9    | Cin NOR (A ⊕ B)        | NOR for sum path                                | IC3\:G1 (1, 2 → 3)    | Intermediate sum path   |
-| 10   | Combine step 8 & 9     | Final Sum = (¬(A⊕B) NOR ¬Cin) NOR (Cin NOR A⊕B) | IC3\:G2 (4, 5 → 6)    | **Sum Output**          |
+| 10   | Combine step 8 & 9     | Final Sum = (¬(A⊕B) NOR ¬Cin) NOR (Cin NOR A⊕B) | IC3\:G2 (4, 5 → 6)    | Sum Output             |
 
 • Inputs: A, B, Cin (Carry-in)
 
@@ -640,7 +640,7 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 | 1 | 1 | 0   | 0   | 1    |
 | 1 | 1 | 1   | 1   | 1    |
 
-# MULTIPLEXERS
+# Multiplexers
 
 A multiplexer is a combinational logic circuit that selects one of many input signals and forwards the selected input to a single output line. 
 
@@ -659,7 +659,7 @@ It acts like a digitally controlled switch.A multiplexer, sometimes simply refer
 •  Digital Systems – As control units in CPUs, memory addressing, etc.
 
 
-**1. 2x1 Multiplexers**
+# 2x1 Multiplexer
 
 A 2-to-1 multiplexer (2:1 MUX) is a simple digital switch that selects one of two input signals and forwards the selected input to a single output line. It’s commonly used in digital circuits to control the flow of data based on a control signal.
 
@@ -686,7 +686,7 @@ A 2-to-1 multiplexer (2:1 MUX) is a simple digital switch that selects one of tw
 
 <img src="https://github.com/user-attachments/assets/54ae1792-e290-42e6-bccc-9f6e09690f3f" width="500" />
 
-![image](https://github.com/user-attachments/assets/00fb3447-c25d-4030-a225-7009a02750e2)
+<img src="https://github.com/user-attachments/assets/b2143a23-3a41-4b58-9e35-03ea7b49e5f4" width="600"/>
 
 <a href="https://www.tinkercad.com/things/baOg8k7AzFK-2-in-1-multiplexer">Tinkercad</a>
 
@@ -724,7 +724,7 @@ A 2-to-1 multiplexer (2:1 MUX) is a simple digital switch that selects one of tw
 | 1                    | 1       | 0       | 0       |
 | 1                    | 1       | 1       | 1       |
 
-**2. 4x1 Multiplexer**
+#  4x1 Multiplexer
 
 A 4:1 multiplexer (mux) is a digital circuit that selects one of four input lines and directs it to a single output line.
 It does this based on the values of two select lines, S1 and S0, which act as control signals. The select lines determine which of the four data inputs (D0, D1, D2, D3) is passed to the output (Y). 
@@ -754,8 +754,9 @@ It does this based on the values of two select lines, S1 and S0, which act as co
 
 **Block diagram**
 
-<img src="https://github.com/user-attachments/assets/c17eaf46-13d0-4e32-9d0b-141bcefa1c39" width="400" />
+<img src="https://github.com/user-attachments/assets/c17eaf46-13d0-4e32-9d0b-141bcefa1c39" width="500" />
 
+<img src="https://github.com/user-attachments/assets/3bda241c-f3ba-4f9d-9aae-3f934599afac" width="600" />
 
 **Truth Table**
 
