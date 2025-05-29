@@ -715,11 +715,11 @@ It does this based on the values of two select lines, S1 and S0, which act as co
 
 • Only one input is selected at any time.
 
-The primary function of a multiplexer is data selection. In the case of a 4x1 multiplexer, four different data inputs are available, and based on the binary value present on the two select lines, only one input is passed through to the output.
+• The primary function of a multiplexer is data selection. In the case of a 4x1 multiplexer, four different data inputs are available, and based on the binary value present on the two select lines, only one input is passed through to the output.
 
-It can also be used to realize any Boolean function of two variables, making it highly versatile in logic design.
+• It can also be used to realize any Boolean function of two variables, making it highly versatile in logic design.
 
-In summary, the 4x1 multiplexer is an essential digital logic component that allows for the controlled selection and transmission of one out of four input signals, based solely on the binary values of two select lines.
+• In summary, the 4x1 multiplexer is an essential digital logic component that allows for the controlled selection and transmission of one out of four input signals, based solely on the binary values of two select lines.
 
 **Applications**
 
