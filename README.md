@@ -709,6 +709,7 @@ A 2-to-1 multiplexer (2:1 MUX) is a simple digital switch that selects one of tw
 **2. 4x1 Multiplexer**
 
 A 4:1 multiplexer (mux) is a digital circuit that selects one of four input lines and directs it to a single output line.
+It does this based on the values of two select lines, S1 and S0, which act as control signals. The select lines determine which of the four data inputs (D0, D1, D2, D3) is passed to the output (Y). 
 
 *8lock diagram**
 
