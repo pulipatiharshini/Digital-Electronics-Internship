@@ -759,6 +759,22 @@ It does this based on the values of two select lines, S1 and S0, which act as co
 
 <img src="https://github.com/user-attachments/assets/3bda241c-f3ba-4f9d-9aae-3f934599afac" width="600" />
 
+[Tinkercad](https://www.tinkercad.com/things/a78u2QWGKUq-4x1-multiplexer)
+
+**4x1 Multiplexer using 7404,7408,7432 ic pin configuration**
+
+| From Component/Pin          | To Component/Pin               | Purpose/Description                 |
+| --------------------------- | ------------------------------ | ----------------------------------- |
+| Power supply (+)            | Breadboard power rail (+)      | Provide +V power to the circuit     |
+| Power supply (-)            | Breadboard ground rail (-)     | Provide ground to the circuit       |
+| DIP switch pins (red wires) | IC inputs (pins on ICs)        | Inputs to the ICs from DIP switches |
+| 74HC04 IC pins              | Connected pins on other ICs    | Logic gate input/output connections |
+| 74HC08 IC pins              | Connected pins on other ICs    | Logic gate input/output connections |
+| 74HC86 IC pins              | Connected pins on other ICs    | Logic gate input/output connections |
+| 74HC32 IC pins              | Connected pins on other ICs    | Logic gate input/output connections |
+| Resistor + LED              | Output indicator on breadboard | Shows output status                 |
+
+
 **Truth Table**
 
 | S1 | S0 | A | B | C | D | Out |
