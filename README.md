@@ -657,7 +657,6 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 • Digital Systems – As control units in CPUs, memory addressing, etc.
 
 
-
 **1. 2x1 Multiplexers**
 
 A 2-to-1 multiplexer (2:1 MUX) is a simple digital switch that selects one of two input signals and forwards the selected input to a single output line. It’s commonly used in digital circuits to control the flow of data based on a control signal.
@@ -669,7 +668,6 @@ A 2-to-1 multiplexer (2:1 MUX) is a simple digital switch that selects one of tw
 • If the select line is 0, the first input is selected.
 
 • If the select line is 1, the second input is selected.
-
 
 
 **Applications:**
