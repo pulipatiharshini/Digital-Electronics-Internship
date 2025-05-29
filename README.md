@@ -706,6 +706,13 @@ A 2-to-1 multiplexer (2:1 MUX) is a simple digital switch that selects one of tw
 | 1                    | 1       | 0       | 0       |
 | 1                    | 1       | 1       | 1       |
 
+**2. 4x1 Multiplexer**
+
+*8lock diagram**
+
+![image](https://github.com/user-attachments/assets/2bf1a4e1-ddbe-433e-a8e5-627435fa801f)
+
+
 
 
 
