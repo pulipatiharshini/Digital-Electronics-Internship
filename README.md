@@ -754,7 +754,7 @@ It does this based on the values of two select lines, S1 and S0, which act as co
 
 **Block diagram**
 
-![image](https://github.com/user-attachments/assets/c17eaf46-13d0-4e32-9d0b-141bcefa1c39)
+<img src="https://github.com/user-attachments/assets/c17eaf46-13d0-4e32-9d0b-141bcefa1c39" width="300" />
 
 
 **Truth Table**
