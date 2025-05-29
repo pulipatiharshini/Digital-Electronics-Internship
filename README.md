@@ -11,6 +11,9 @@
 - [Integrated Circuits-IC's](#integrated-circuits-ics)
 - [Implementation Of Half Adder](#implementation-of-half-adder)
 - [Implementation Of Full Adder](#implementation-of-full-adder)
+- [MUultiplexers](#multiplexers)
+- [2x1-MULTIPLEXER](#2x1-multiplexer)
+  
 # What is Digital Electronics
 
 Digital electronics is a branch of electronics that deals with systems and devices that use digital signals, which are discrete representations of data, 
