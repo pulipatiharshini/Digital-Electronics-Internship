@@ -640,21 +640,21 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 # MULTIPLEXERS
 
-A multiplexer is a combinational logic circuit that selects one of many input signals and forwards the selected input to a single output line. 
+•A multiplexer is a combinational logic circuit that selects one of many input signals and forwards the selected input to a single output line. 
 
-It acts like a digitally controlled switch.A multiplexer, sometimes simply referred to as “mux”, is a device that selects between a number of input signals. In its simplest form, it will have two signal inputs, one input control, and one output. An everyday example of a multiplexer is the source selection control on a home stereo unit.
+•It acts like a digitally controlled switch.A multiplexer, sometimes simply referred to as “mux”, is a device that selects between a number of input signals. In its simplest form, it will have two signal inputs, one input control, and one output. An everyday example of a multiplexer is the source selection control on a home stereo unit.
 
-Applications of Multiplexers:
+**Applications of Multiplexers:*"
 
-Data Routing – Used to route data from multiple sources to a single destination
+• Data Routing – Used to route data from multiple sources to a single destination
 
-Communication Systems – Send multiple signals over a single line
+• Communication Systems – Send multiple signals over a single line
 
-Arithmetic Logic Units (ALUs) – Select between different operations
+• Arithmetic Logic Units (ALUs) – Select between different operations
 
-Function Generators – Implement any logic function using a MUX
+• Function Generators – Implement any logic function using a MUX
 
-Digital Systems – As control units in CPUs, memory addressing, etc.
+• Digital Systems – As control units in CPUs, memory addressing, etc.
 
 
 
@@ -756,6 +756,19 @@ It does this based on the values of two select lines, S1 and S0, which act as co
 
 ![image](https://github.com/user-attachments/assets/c17eaf46-13d0-4e32-9d0b-141bcefa1c39)
 
+
+**Truth Table**
+
+| S1 | S0 | A | B | C | D | Out |
+| -- | -- | - | - | - | - | --- |
+| 0  | 0  | 0 | x | x | x | 0   |
+| 0  | 0  | 1 | x | x | x | 1   |
+| 0  | 1  | x | 0 | x | x | 0   |
+| 0  | 1  | x | 1 | x | x | 1   |
+| 1  | 0  | x | x | 0 | x | 0   |
+| 1  | 0  | x | x | 1 | x | 1   |
+| 1  | 1  | x | x | x | 0 | 0   |
+| 1  | 1  | x | x | x | 1 | 1   |
 
 
 
