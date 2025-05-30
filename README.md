@@ -525,11 +525,15 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 # AND GATE USING NAND GATE
 
+**Circuit diagram**
+
 <img src="https://github.com/user-attachments/assets/6571468f-6178-4812-8b9d-509d7ea34363" width="400" alt="image">
 
 [Tinkercad](https://www.tinkercad.com/things/9honMKm8l6i-and-using-nand)
 
 # OR GATE USING NAND GATE
+
+**Circuit diagram**
 
 <img src="https://github.com/user-attachments/assets/ec2972e5-ce1b-4f99-9d3c-e3a42b212954" width="400" />
 
@@ -537,11 +541,15 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 # NOT GATE USING NAND GATE
 
+ **Circuit diagram**
+
 <img src="https://github.com/user-attachments/assets/6e6cde5b-dc84-4e1d-adfd-6e0a1981fefd" width="400" alt="image">
 
 [Tinkercad](https://www.tinkercad.com/things/alJbUbqD9En-not-using-nand)
 
 # AND GATE USING NOR GATE
+
+**Circuit diagram**
 
 <img src="https://github.com/user-attachments/assets/c8238692-d826-4c4e-8cfb-04726e1a1c04" width="400" alt="image">
 
@@ -549,11 +557,15 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 
 # NOT GATE USING NOR GATE
 
+**Circuit diagram**
+
 <img src="https://github.com/user-attachments/assets/29d6025c-22e0-43dc-a048-4b379028dbe5" width="400"/>
 
 [Tinkercad](https://www.tinkercad.com/things/acczd58xnGi-not-using-nor)
 
 # OR GATE USING NOR GATE
+
+**Circuit diagram**
 
 <img src="https://github.com/user-attachments/assets/572dbfe6-f3cf-41e7-adb2-1fd08cf9c002" width="400" />.
 
@@ -564,6 +576,8 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 **Block Diagram**
 
 ![image](https://github.com/user-attachments/assets/eac5524e-eaef-48e1-9b83-4d4282acab8c)
+
+**Circuit diagram**
 
 <img src="https://github.com/user-attachments/assets/e8ea43cd-9833-4688-918f-f66af2c02825" width="600"/>
 
@@ -604,6 +618,8 @@ The XNOR gate performs the logical equality operation. It compares two input sig
 **Block Diadram**
 
 ![image](https://github.com/user-attachments/assets/13db4714-74e0-4a46-8c18-afac2b96f365)
+
+**Circuit diagram**
 
 <img src="https://github.com/user-attachments/assets/f5da2641-49f5-474d-b5fb-cb766894a895" width="600"/>
 
@@ -687,6 +703,8 @@ A 2-to-1 multiplexer (2:1 MUX) is a simple digital switch that selects one of tw
 
 <img src="https://github.com/user-attachments/assets/54ae1792-e290-42e6-bccc-9f6e09690f3f" width="500" />
 
+**Circuit diagram**
+
 <img src="https://github.com/user-attachments/assets/b2143a23-3a41-4b58-9e35-03ea7b49e5f4" width="600"/>
 
 <a href="https://www.tinkercad.com/things/baOg8k7AzFK-2-in-1-multiplexer">Tinkercad</a>
@@ -756,6 +774,8 @@ It does this based on the values of two select lines, S1 and S0, which act as co
 **Block diagram**
 
 <img src="https://github.com/user-attachments/assets/c17eaf46-13d0-4e32-9d0b-141bcefa1c39" width="500" />
+
+**Circuit Diagram**
 
 <img src="https://github.com/user-attachments/assets/3bda241c-f3ba-4f9d-9aae-3f934599afac" width="600" />
 
