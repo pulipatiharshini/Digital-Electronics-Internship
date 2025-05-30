@@ -790,9 +790,9 @@ It does this based on the values of two select lines, S1 and S0, which act as co
 
 **Circuit Diagram**
 
-<img src="https://github.com/user-attachments/assets/3bda241c-f3ba-4f9d-9aae-3f934599afac" width="600" />
+![image](https://github.com/user-attachments/assets/ea1a2cd7-f828-4e5d-bb2f-e3802bce7dc5)
 
-[Tinkercad](https://www.tinkercad.com/things/a78u2QWGKUq-4x1-multiplexer)
+<a href="https://www.tinkercad.com/things/kp7jlcmzycE-4x1-multiplexer" target="_blank">Tinkercad</a>
 
 **4x1 Multiplexer using 7404,7408,7432 ic pin configuration**
 
