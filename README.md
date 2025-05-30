@@ -280,6 +280,8 @@ A tiny electronic device that combines multiple electronic components, such as t
 
 ![image](https://github.com/user-attachments/assets/335f63ee-4dbb-4444-8be7-bbbd344dc09a)
 
+**Circuit diagram**
+
 <img src="https://github.com/user-attachments/assets/8302e8d8-a4f0-4418-b386-fcd8efa606b6" width="400" />
 
 **Tinkercad Circuit:AND GATE using IC 7408**
@@ -317,6 +319,8 @@ Arithmetic for binary addition or multiplication.
 
 ![image](https://github.com/user-attachments/assets/f51060d3-9527-4c46-b48a-29dbd0ffdb54)
 
+**Circuit diagram**
+
 <img src="https://github.com/user-attachments/assets/9b1029a7-2ca4-4b5b-86f2-ba06776a5858" width="400" />
 
 **Tinkercad Circuit:OR GATE using IC 7432**
@@ -350,6 +354,8 @@ An OR gate IC is a digital electronic component that performs the logical OR ope
 <img src="https://github.com/user-attachments/assets/6dbca3b3-8d17-4b35-bdee-dd3accc3a4a9" width="350" />
 
 ![image](https://github.com/user-attachments/assets/64917dd8-a04a-475d-9a0b-0eb7c535321d)
+
+**Circuit diagram**
 
 <img src="https://github.com/user-attachments/assets/631e39fa-8819-4f30-97dc-344d8cc3248a" width="400" />
 
