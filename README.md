@@ -386,6 +386,8 @@ A NOT gate IC is a digital logic device that implements the inverter function. I
 
 ![image](https://github.com/user-attachments/assets/bffb176c-8bd9-41af-a202-1c4a49fde811)
 
+**Circuit diagram**
+
 <img src="https://github.com/user-attachments/assets/61fadbb6-cb7a-40ef-b032-8c7435516de2" width="400" />
 
 **Tinkercad Circuit: NAND GATE using IC 7400**
@@ -420,8 +422,9 @@ A NAND gate IC is an integrated circuit that implements the NAND (Not AND) logic
 
 ![image](https://github.com/user-attachments/assets/735fa2be-d893-4d45-8135-007433b85917)
 
-<img src="https://github.com/user-attachments/assets/274fed1a-1d9c-4cea-98d5-6ce78d11aefb" width="400" />
+**Circuit diagram**
 
+<img src="https://github.com/user-attachments/assets/274fed1a-1d9c-4cea-98d5-6ce78d11aefb" width="400" />
 
 **Tinkercad Circuit: NOR GATE using IC 7402**
 
@@ -457,6 +460,8 @@ In theory, the NOR gate produces a high output only when all of its inputs are l
 
 ![image](https://github.com/user-attachments/assets/1193bfdc-87aa-4b7f-8483-150f51bb11d2)
 
+**Circuit diagram**
+
 <img src="https://github.com/user-attachments/assets/e3697fbf-f47b-43df-ae3c-2979e3142f7e" width="400" />
 
 **Tinkercad Circuit:XOR GATE using IC 7486**
@@ -491,6 +496,8 @@ In its simplest form with two inputs, the XOR gate outputs a logic 1 only if one
 <img src="https://github.com/user-attachments/assets/ca46a46e-b20b-46ac-b327-ea11ee43efa6" width="350" />
 
 ![image](https://github.com/user-attachments/assets/c533af69-992f-4347-856e-4472f776fab0)
+
+**Circuit diagram**
 
 <img src="https://github.com/user-attachments/assets/361d0060-ce12-4a1b-b862-b6a7a5de973f" width="400" />
 
